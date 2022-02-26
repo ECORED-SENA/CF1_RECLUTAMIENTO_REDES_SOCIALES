@@ -3,7 +3,10 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero
+       span 3
+      h1 Nuevas técnicas de selección de talento humano 5.0
 
 </template>
 
