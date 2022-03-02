@@ -5,7 +5,7 @@ export default {
     descripcionCurso:
       'Los contenidos propuestos en este componente de formación permiten conocer la planeación para el reclutamiento de personal según competencias y a través de redes sociales. Para su desarrollo se estudiará la conceptualización, la planeación, los tipos de repositorio, las plataformas y tipos de convocatorias. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/Fondo_Banner.png'),
   },
   menuPrincipal: {
     menu: [
