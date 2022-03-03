@@ -100,7 +100,7 @@
     .row.mb-5
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
         figure.justify-center
-          img.img40(src='@/assets/curso/tema1/t1-9.svg', alt='Texto que describa la imagen')
+          img.img40(src='@/assets/componentes/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
         p Los factores externos comprenden todo el entorno en el que opera la empresa de tipo económico, social, cultural, político, legal, regulatorio, estatutario, etc., este se da en niveles de tipo local, regional, nacional e internacional. A continuación, se mencionan algunos factores externos que impactan las empresas al momento de definir las estrategias y acciones: 
 
@@ -264,7 +264,7 @@
     .row.mb-5
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
         figure.justify-center
-          img.img40(src='@/assets/curso/tema1/t1-9.svg', alt='imagen 9')
+          img.img40(src='@/assets/componentes/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
         p Hoy en día es normal encontrar en las empresas la necesidad de contratar a trabajadores o reemplazar algunos de ellos que se van. Esto se convierte en una actividad regular y se hace necesario llevar una norma de contratación de personal, este proceso empieza por la selección y convocatoria del nuevo personal que cumpla con las necesidades de la empresa, hasta la contratación y cumplimiento de los derechos laborales por parte de la empresa. 
     
@@ -365,7 +365,7 @@
     .row.mb-5
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
         figure.justify-center
-          img.img40(src='@/assets/curso/tema1/t1-9.svg', alt='Texto que describa la imagen')
+         img.img40(src='@/assets/componentes/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
         p La vacante de trabajo es un puesto laboral sin ocupar, por lo que la empresa se encuentra en búsqueda de un trabajador a quien delegar ese cargo. En otras palabras, la vacante de trabajo es aquella que está libre. Es importante resaltar que la vacante debe contar con un perfil profesional que debe ocuparse de forma óptima. Un ejemplo de esto es una vacante para la gerencia de un banco, donde los postulados deben contar con experiencia y un nivel académico acorde al desempeño del área.
     
@@ -479,7 +479,7 @@
     .row.mb-3
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
         figure.justify-center
-          img.img40(src='@/assets/curso/tema1/t1-9.svg', alt='Texto que describa la imagen')
+          img.img40(src='@/assets/componentes/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
         p La selección de talento humano contempla actividades como la descripción del puesto y difusión de la oferta de trabajo, la selección del personal, proceso de entrevista (preparación preguntas), proceso de reclutamiento y, por último, la integración e incorporación del nuevo personal. 
     

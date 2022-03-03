@@ -306,7 +306,7 @@
 
     PasosA.color-acento-botones.mb-5(tipo="n")
       .row
-        .col-md-6.mb-4.mb-md-0.align-items-center
+        .col-md-6.mb-4.mb-md-0.mt-5
           h3 La etapa 1. 
           p Consiste en identificar las funciones propias del cargo, aquí se puede emplear la descripción y el análisis de cargos.
         .col-md-6
@@ -316,7 +316,7 @@
         .col-md-6
           figure.justify-center
             img.img250(src='@/assets/curso/tema2/t2-15.svg', alt='Imagen 2-15')
-        .col-md-6.mb-4.mb-md-0.align-items-center
+        .col-md-6.mb-4.mb-md-0.mt-5
           h3 La etapa 2.  
           p Permite describir las competencias básicas requeridas, aquí es importante tener en cuenta su formación profesional y otros niveles educativos. 
         
@@ -347,7 +347,7 @@
         .col-md-6
           figure.justify-center
             img.img250(src='@/assets/curso/tema2/t2-17.svg', alt='Imagen 2-17')
-        .col-md-6.mb-4.mb-md-0.align-items-center
+        .col-md-6.mb-4.mb-md-0.mt-5
           h3 La etapa 4.
           p Permite describir las competencias técnicas específicas del cargo. 
         

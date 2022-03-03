@@ -156,47 +156,28 @@ export default {
   referencias: [
     {
       referencia:
-        'Díaz, L., Rodríguez, M. & Olvera, M. (2014). Reclutamiento y selección a través de las redes sociales Facebook y LinkedIn: (análisis preliminar). ',
-      link:
-        'Oikos: Revista de la Escuela de Administración y Economía, 18(38), p. 37-61. ',
+        'Díaz, L., Rodríguez, M. & Olvera, M. (2014). Reclutamiento y selección a través de las redes sociales Facebook y LinkedIn: (análisis preliminar). Oikos: Revista de la Escuela de Administración y Economía, 18(38), p. 37-61.  ',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Jiménez, K. & Montt, P. (2014). Efectividad de los sitios de redes sociales como fuente de atracción en el proceso de reclutamiento. ',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Moreno, A. (2015). Nuevos métodos de reclutamiento del personal.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Mukiur, R. (2016). Reclutamiento a través de las redes sociales: Reclutamiento 3.0. Opción: Revista de Ciencias Humanas y Sociales, (10), p. 135-151. ',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Rodríguez, S. (2019). Convocatoria para la contratación de personal para la promoción de empleo joven e implantación de la garantía. Doctoral Dissertation, Universidad de Valladolid.',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Real Academia Española. (2021). Diccionario de la lengua española, 23.ª ed., [versión 23.4 en línea]. ',
+      link: 'https://dle.rae.es.',
     },
   ],
   glosario: [
@@ -224,7 +205,7 @@ export default {
   complementario: [
     {
       texto:
-        'Ladino, A. & Orozco, D.  (2008). Modelo de reclutamiento y selección de talento humano por competencias para niveles directivo de la organización. Scientia et Technica, 2(39). ',
+        'Ladino, A. & Orozco, D.  (2008). Modelo de reclutamiento y selección de talento humano por competencias para niveles directivo de la organización. Scientia et Technica, 2(39).  ',
       tipo: 'Documento',
       link:
         'https://revistas.utp.edu.co/index.php/revistaciencia/article/view/3231 ',
@@ -233,7 +214,7 @@ export default {
       texto:
         'Mukiur, R. (2016). Reclutamiento a través de las redes sociales: reclutamiento 3.0. Opción: Revista de Ciencias Humanas y Sociales, (10), p. 135-151.',
       tipo: 'Documento',
-      descarga: 'https://dialnet.unirioja.es/servlet/articulo?codigo=5875160 ',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=5875160 ',
     },
   ],
   creditos: {
@@ -249,7 +230,7 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     desarrolloProducto: [
@@ -257,24 +238,19 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: ['Marcela Alarcon Granados'],
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Carlos Andres Diaz Pinto',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Nombre',
@@ -293,17 +269,17 @@ export default {
       {
         nombre: 'Álvaro Andrés Angarita Ramirez',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Daniel Felipe Varón Molina',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
