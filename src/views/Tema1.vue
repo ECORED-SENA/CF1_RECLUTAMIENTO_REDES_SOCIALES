@@ -34,13 +34,13 @@
             p Definir lo que see quiere lograr y el motivo del por qué hacerlo, es uno de los puntos que hay que tener en cuenta a la hora de impactar a un público, saber qué se aportará a los clientes. 
        
           .col-5.col-md-5.col-lg-5
-            figure
+            figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-2.png', alt='Imagen 2')
               
       .py-3.py-md-4(titulo="La misión")
         .row
           .col-5.col-md-5.col-lg-5
-            figure
+            figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-3.png', alt='Texto que describa la imagen')
               
           .col-7.col-md-7.col-lg-7.align-items-center
@@ -54,13 +54,13 @@
             p Se debe contar con grandes líderes que inspiren y dirijan.
         
           .col-5.col-md-5.col-lg-5
-            figure
+            figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-4.png', alt='Texto que describa la imagen')
       
       .py-3.py-md-4(titulo="La comunicación")
         .row
           .col-5.col-md-5.col-lg-5
-            figure
+            figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-5.png', alt='Texto que describa la imagen')
           .col-7.col-md-7.col-lg-7.align-items-center
             h4 La comunicación
@@ -73,13 +73,13 @@
             p Aquí es importante las  relaciones jerárquicas que se presentan en la empresa, su desempeño se determina según el número de intermediarios que existan de arriba a abajo. Entre menos intermediarios es mejor. 
         
           .col-5.col-md-5.col-lg-5
-            figure
+            figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-6.png', alt='Texto que describa la imagen')
       
       .py-3.py-md-4(titulo="Las personas")
         .row
           .col-5.col-md-5.col-lg-5
-            figure
+            figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-7.png', alt='Texto que describa la imagen')
           .col-7.col-md-7.col-lg-7.align-items-center
             h4 Las personas
@@ -92,7 +92,7 @@
             p Aquí es importante fomentar la innovación e incorporar en la experiencia de cada empleado la oportunidad de aprender y explorar. 
         
           .col-5.col-md-5.col-lg-5
-            figure
+            figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-8.png', alt='Texto que describa la imagen')
     
     div.mb-5
@@ -397,7 +397,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/t1-35.svg')})`}").align-items-end
               p.cont7bgr.text-center.p-2 interno
 
-            .tarjeta-flip__contenido.p-4
+            .tarjeta-flip__contenido.pt-1
               .row
                 .col-10.col-md-10.col-lg-10.pt-2
                   p.p-3.text-small Cuando la empresa reubica a sus empleados de acuerdo con sus competencias (ascensos, transferencias, etc.). Aquí se tiene en cuenta los logros profesionales del empleado, se caracteriza por ahorrar tiempo y dinero, mejora el clima laboral, reconoce el trabajo y esfuerzo de los empleados y la adaptación del empleado requiere menos tiempo debido al conocimiento del lugar de trabajo.
@@ -463,7 +463,7 @@
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img.cont9bgr
-        figure.ps-5
+        figure.justify-center
           img.img250(src='@/assets/curso/tema1/t1-41.png', alt='Imagen 1.3')
       .bloque-texto-g__texto.p-4
         p.mb-0 La selección del personal en una empresa hace referencia a la obtención de los recursos humanos. A veces es difícil encontrar el personal que cumpla con todos los requerimientos necesarios y es aquí donde el equipo de trabajo o el área de recursos humanos debe seleccionar adecuadamente a los trabajadores, pues de eso dependerá el buen desempeño y desarrollo de las actividades de la empresa. 
