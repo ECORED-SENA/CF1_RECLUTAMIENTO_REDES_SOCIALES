@@ -14,58 +14,136 @@
         p La forma de lograr lo anterior es implementando procesos de selección inteligentes que involucren nuevas tecnologías, mejores prácticas, metodologías, sistemas, automatización, pruebas y herramientas. 
       .col-12.col-md-5.col-lg-5
         figure.justify-center
-          img.img600(src='@/assets/curso/tema3/t3-1.png', alt='Imagen 3-1')
+          img.img600(src='@/assets/curso/tema3/t3-1.png', alt='Imagen 3-1')    
     
-    div.mb-5
-      p Al momento de aplicar estas técnicas de talento humano 5.0 se encuentran algunos retos en la selección, entre estos se hallan: 
-    
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img.cont9bgr
-        figure.justify-center
-          img.img250(src='@/assets/curso/tema3/t3-2.svg', alt='Imagen 3-2')
-      .bloque-texto-g__texto.p-4
-         ul.lista-ul.p-3
-          li
-            ul
-              li 
-                i.fas.fa-angle-right
-                span.text-black Definir: 
-                | el perfil del cargo.
-              li 
-                i.fas.fa-angle-right
-                span.text-black Reclutar: 
-                | candidatos que cumplan con el perfil. Hacer uso de las páginas, e-mail, SMS, multiposting, etc.
-              li 
-                i.fas.fa-angle-right
-                span.text-black Evaluar: 
-                | pruebas y entrevistas (de forma virtual y de calificación automáticas). 
-              li 
-                i.fas.fa-angle-right
-                span.text-black Seleccionar: 
-                | estudiar y verificar a los posibles candidatos para observar si están mintiendo o dicen la verdad sobre sus conocimientos, actitud, aptitud, experiencia, documentación, antecedentes, etc.
-              li 
-                i.fas.fa-angle-right
-                span.text-black Organizar: 
-                | aplicar mecanismos de organización para dar trazabilidad al proceso. Aquí es importante generar informes, tener presente datos estadísticos del proceso y contar con el banco de candidatos.
+    .bloque-texto-a.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          figure.justify-center
+            img.img250(src='@/assets/curso/tema3/t3-2.svg', alt='Imagen 3-2')
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p Al momento de aplicar estas técnicas de talento humano 5.0 se encuentran algunos retos en la selección, entre estos se hallan:
+              ul.lista-ul.p-3
+                li
+                  ul
+                    li 
+                      i.fas.fa-angle-right
+                      span.text-black Definir: 
+                    p El perfil del cargo.
+                    li 
+                      i.fas.fa-angle-right
+                      span.text-black Reclutar: 
+                    p Candidatos que cumplan con el perfil. Hacer uso de las páginas, e-mail, SMS, multiposting, etc.
+                    li 
+                      i.fas.fa-angle-right
+                      span.text-black Evaluar: 
+                    p Pruebas y entrevistas (de forma virtual y de calificación automáticas). 
+                    li 
+                      i.fas.fa-angle-right
+                      span.text-black Seleccionar: 
+                    p Estudiar y verificar a los posibles candidatos para observar si están mintiendo o dicen la verdad sobre sus conocimientos, actitud, aptitud, experiencia, documentación, antecedentes, etc.
+                    li 
+                      i.fas.fa-angle-right
+                      span.text-black Organizar: 
+                    p Aplicar mecanismos de organización para dar trazabilidad al proceso. Aquí es importante generar informes, tener presente datos estadísticos del proceso y contar con el banco de candidatos.
     
     div.mb-5
       p Por otra parte, se encuentran algunas características del proceso de selección de talento humano 5.0: 
     
-    figure.justify-center.mb-5
-        img.img600(src='@/assets/curso/tema3/t3-3.svg', alt='Imagen 3-3')
-    
-    div.mb-5
-      p No obstante, todo proceso de selección necesita de herramientas que permitan la elección adecuada o correcta, pero, sobre todo que permita la personalización, eficiencia y practicidad para el proceso. Entre estas se encuentran:
-    
+    .row.mb-5.align-items-center
+      .col-12.col-md-7.col-lg-7.mb-3
+        ul.lista-ul.p-3.cont18bgr
+          li
+            ul
+              li
+                i.fas.fa-atom.colori
+                | Conectividad como canal principal (candidatos y empresa, deben contar con dispositivos).
+        ul.lista-ul.p-3.cont19bgr
+          li
+            ul
+              li
+                i.fas.fa-atom.colori
+                | Personalización (se debe realizar una personalización según los candidatos, a través de los medios de comunicación y recepción de información. “Plataformas”). 
+        ul.lista-ul.p-3.cont18bgr
+          li
+            ul
+              li
+                i.fas.fa-atom.colori
+                | Crear una relación con el candidato que permita el intercambio de información.
+        ul.lista-ul.p-3.cont19bgr
+          li
+            ul
+              li
+                i.fas.fa-atom.colori
+                | Tener la huella del candidato en la nube, manejar plataformas informáticas. 
+        ul.lista-ul.p-3.cont18bgr
+          li
+            ul
+              li
+                i.fas.fa-atom.colori
+                | <em>Big data</em>, trazabilidad de candidatos y procesos (bases de datos automatizadas).
+        ul.lista-ul.p-3.cont19bgr
+          li
+            ul
+              li
+                i.fas.fa-atom.colori
+                | <em>Marketing</em> disruptivo (¿dónde buscar candidatos?).
+        ul.lista-ul.p-3.cont18bgr
+          li
+            ul
+              li
+                i.fas.fa-atom.colori
+                | Contratos flexibles. 
+      .col-12.col-md-5.col-lg-5.mb-3.align-items-center
+        figure.justify-center
+          img.img450(src='@/assets/curso/tema3/t3-2-1.png', alt='Imagen 3-2-1')
+
     .row.mb-5
-      .col-12.col-md-4.col-lg-4.mb-2
+      .col-12.col-md-4.col-lg-4.align-items-center
         figure.justify-center
-          img.img350(src='@/assets/curso/tema3/t3-4.svg', alt='Imagen 3-4')
-      .col-12.col-md-8.col-lg-8
-        figure.justify-center
-          img.img900(src='@/assets/curso/tema3/t3-5.svg', alt='Imagen 3-5')
+          img.img350(src='@/assets/curso/tema3/t3-4.svg', alt='imagen 2-9')
+      .col-12.col-md-8.col-lg-8.cont24bgr.p-4.mb-3
+        div.cont25bgr.p-4
+          p No obstante, todo proceso de selección necesita de herramientas que permitan la elección adecuada o correcta, pero, sobre todo que permita la personalización, eficiencia y practicidad para el proceso. Entre estas se encuentran:
+            ul.lista-ul.mt-3
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Sistemas de seguimiento a los aplicantes.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    |Pruebas <em>online</em> optimizadas y personalizables. 
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Video entrevistas.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | <em>Bot´s</em> (filtro automático contable para elegir al candidato).  
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Banco de hojas de vida.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Redes sociales y profesionales.       
     
-    div.mb-5
+    div.mb-3
       p Para realizar un proceso de selección por medio de las nuevas técnicas de selección 5.0se debe tener presente algunos de los procesos a continuación: 
     
     div.mb-2.justify-center
@@ -74,38 +152,47 @@
           .lista-ol--cuadro__vineta 
             span 1 
           | Hacer una parametrización del proceso.
+        <hr width= 100%>
         li 
           .lista-ol--cuadro__vineta 
             span 2 
-          | Realización de pruebas y entrevistas (virtuales de tipo sincrónica o asincrónica). 
+          | Realización de pruebas y entrevistas (virtuales de tipo sincrónica o asincrónica).
+        <hr width= 100%> 
         li 
           .lista-ol--cuadro__vineta 
             span 3
           | Usos de las redes sociales, publicación por referidos o grupos.
+        <hr width= 100%>
         li 
           .lista-ol--cuadro__vineta 
             span 4 
           | Identificar el número de candidatos posibles o postulados por medio de los medios utilizados.
+        <hr width= 100%>
         li 
           .lista-ol--cuadro__vineta 
             span 5 
           | Filtrar, evaluar y realizar entrevista. 
+        <hr width= 100%>
         li 
           .lista-ol--cuadro__vineta 
             span 6 
-          | Análisis de los candidatos. 
+          | Análisis de los candidatos.
+        <hr width= 100%> 
         li 
           .lista-ol--cuadro__vineta 
             span 7 
-          | Informe del proceso de   
+          | Informe del proceso de 
+        <hr width= 100%>  
         li 
           .lista-ol--cuadro__vineta 
             span 8 
           | Comunicación, selección y consenso de una terna para la selección, según la definición determinada para el proceso.  
+        <hr width= 100%>
         li 
           .lista-ol--cuadro__vineta 
             span 9
           | Elección del candidato.
+        <hr width= 100%>
         li 
           .lista-ol--cuadro__vineta 
             span 10 
@@ -119,7 +206,7 @@
     .row.mb-3
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
         figure.justify-center
-          img.img40(src='@/assets/componentes/puntos.svg', alt='imagen 9')
+          img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
         p El Internet de las cosas es el proceso que permite conectar elementos físicos cotidianos a Internet. Aquí se pueden encontrar electrodomésticos, objetos domésticos comunes como las bombillas de luz, también recursos para la atención de la salud como los dispositivos médicos, entre otros.  El Internet de las cosas hace referencia a los sistemas de dispositivos físicos que reciben y transfieren datos a través de redes inalámbricas, esto se puede lograr debido a la integración de dispositivos informáticos en todo tipo de objetos.
     
@@ -129,51 +216,55 @@
     div.mb-5
       p A continuación, conocerá algunas de las posibles etapas claves en este proceso: 
   
-    .row.mb-5
-      .col-12.col-md-3.col-lg-3.p-4.cont1bgr
-        .row
-          .col-10.col-md-10.col-lg-10
-            h3.text-center Capturar los datos
-          .col-2.col-md-2.col-kg-2
-            img.img40(src='@/assets/curso/tema3/t3-6.svg')
-        .row.mb-3
-          .col-12.col-md-12.col-lg-12
-            figure.justify-center
-              img.img160(src='@/assets/curso/tema3/t3-7.svg')
-        p.text-center A través de sensores, los dispositivos capturan datos de sus entornos (temperatura, etc.).
-      .col-12.col-md-3.col-lg-3.p-4.cont2bgr
-        .row
-          .col-10.col-md-10.col-lg-10
-            h3.text-center Compartir los datos 
-          .col-2.col-md-2.col-kg-2
-            img.img40(src='@/assets/curso/tema3/t3-6.svg')
-        .row.mb-3
-          .col-12.col-md-12.col-lg-12
-            figure.justify-center
-              img.img160(src='@/assets/curso/tema3/t3-8.svg')
-        p.text-center Por medio de conexiones de red disponibles, los dispositivos permiten el acceso de estos datos a través de una nube pública o privada. 
-      .col-12.col-md-3.col-lg-3.p-4.cont1bgr
-        .row
-          .col-10.col-md-10.col-lg-10
-            h3.text-center Procesar los datos 
-          .col-2.col-md-2.col-kg-2
-            img.img40(src='@/assets/curso/tema3/t3-6.svg')
-        .row.mb-3
-          .col-12.col-md-12.col-lg-12
-            figure.justify-center
-              img.img160(src='@/assets/curso/tema3/t3-9.svg')
-        p.text-center Por medio de un software se programa para que realice una función según la base de datos. Un ejemplo puede ser el de encender una bombilla o enviar una advertencia.
-      .col-12.col-md-3.col-lg-3.p-4.cont2bgr
-        .row
-          .col-10.col-md-10.col-lg-10
-            h3.text-center Actuar según los datos 
-          .col-2.col-md-2.col-kg-2
-            img.img40(src='@/assets/curso/tema3/t3-6.svg')
-        .row.mb-3
-          .col-12.col-md-12.col-lg-12
-            figure.justify-center
-              img.img160(src='@/assets/curso/tema3/t3-10.svg')
-        p.text-center Se analiza la base de datos de todos los dispositivos de la red, con el objetivo de brindar información estratégica para establecer acciones y decisiones de la empresa. 
+    .row.mb-3
+      .col-12.col-md-3.col-lg-3.p-4
+        div.cont26bgr.p-3
+          .row
+            .col-10.col-md-10.col-lg-10
+              h3.text-center Capturar los datos
+            .col-2.col-md-2.col-kg-2
+              img.img40(src='@/assets/curso/tema3/t3-6.svg')
+          .row.mb-3
+            .col-12.col-md-12.col-lg-12
+              figure.justify-center
+                img.img160(src='@/assets/curso/tema3/t3-7.svg')
+          p.text-center A través de sensores, los dispositivos capturan datos de sus entornos (temperatura, etc.).
+      .col-12.col-md-3.col-lg-3.p-4
+        div.cont27bgr.p-3
+          .row
+            .col-10.col-md-10.col-lg-10
+              h3.text-center Compartir los datos 
+            .col-2.col-md-2.col-kg-2
+              img.img40(src='@/assets/curso/tema3/t3-6.svg')
+          .row.mb-3
+            .col-12.col-md-12.col-lg-12
+              figure.justify-center
+                img.img160(src='@/assets/curso/tema3/t3-8.svg')
+          p.text-center Por medio de conexiones de red disponibles, los dispositivos permiten el acceso de estos datos a través de una nube pública o privada. 
+      .col-12.col-md-3.col-lg-3.p-4
+        div.cont26bgr.p-3
+          .row
+            .col-10.col-md-10.col-lg-10
+              h3.text-center Procesar los datos 
+            .col-2.col-md-2.col-kg-2
+              img.img40(src='@/assets/curso/tema3/t3-6.svg')
+          .row.mb-3
+            .col-12.col-md-12.col-lg-12
+              figure.justify-center
+                img.img160(src='@/assets/curso/tema3/t3-9.svg')
+          p.text-center Por medio de un software se programa para que realice una función según la base de datos. Un ejemplo puede ser el de encender una bombilla o enviar una advertencia.
+      .col-12.col-md-3.col-lg-3.p-4
+        div.cont27bgr.p-3
+          .row
+            .col-10.col-md-10.col-lg-10
+              h3.text-center Actuar según los datos 
+            .col-2.col-md-2.col-kg-2
+              img.img40(src='@/assets/curso/tema3/t3-6.svg')
+          .row.mb-3
+            .col-12.col-md-12.col-lg-12
+              figure.justify-center
+                img.img160(src='@/assets/curso/tema3/t3-10.svg')
+          p.text-center Se analiza la base de datos de todos los dispositivos de la red, con el objetivo de brindar información estratégica para establecer acciones y decisiones de la empresa. 
 
     separador
 
@@ -201,16 +292,44 @@
         figure.justify-center
           img.img350(src='@/assets/curso/tema3/t3-11.svg')
     
-    div.mb-5
-      p Por otra parte, se encuentran las características de las redes sociales:
-    
     .row.mb-5
-      .col-12.col-md-4.col-lg-4
+      .col-12.col-md-4.col-lg-4.align-items-center.mb-3
         figure.justify-center
           img.img300(src='@/assets/curso/tema3/t3-12.svg')
-      .col-12.col-md-8.col-lg-8
-        figure.justify-center
-          img.img900(src='@/assets/curso/tema3/t3-13.svg')
+      .col-12.col-md-8.col-lg-8.cont28bgr.p-4.mb-3
+        div.cont25bgr.p-4
+          p Por otra parte, se encuentran las características de las redes sociales:
+            ul.lista-ul.mt-3
+              li
+                ul
+                  li
+                    i.fas.fa-check.colorcheck
+                    | Están conformadas por una comunidad virtual.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-check.colorcheck
+                    | Pueden ser utilizadas desde computadoras, <em>tablet</em> o dispositivos móviles.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-check.colorcheck
+                    | Son de acceso gratuito y algunas ofrecen otras funcionalidades a cambio de un pago mensual o anual. 
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-check.colorcheck
+                    | Brindan información en tiempo real.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-check.colorcheck
+                    | Permiten a cada usuario crear un perfil dentro de la red para poder interactuar con los demás. 
+    
     div.mb-3
       h3 Ventajas de las redes sociales
       p Las redes sociales brindan una serie de ventajas o beneficios, y esto les ha permitido ser protagonistas dentro de la Web. Entre estas ventajas se encuentran: 
@@ -246,21 +365,21 @@
           p.text-center La publicidad y la creación de perfiles corporativos han hecho de las redes sociales un nuevo mercado. Permiten conectar compradores y vendedores de cualquier parte del mundo. 
     
     .row.mb-5
-      .col-md-3.col-xl.mb-4.mb-xl-0
+      .col-12.col-md-3.col-lg-3.mb-4
         .tarjeta-numerada.color-acento-contenido.p-5
           .tarjeta-numerada__numero
             .h2 5
           p.text-center 
             b Funcionan como un canal
           p.text-center Funcionan como medios de aprendizaje, entretenimiento e información, esto dependerá del contenido que esté interesado el usuario.  
-      .col-md-3.col-xl.mb-4.mb-xl-0
+      .col-12.col-md-3.col-lg-3.mb-4
         .tarjeta-numerada.color-primario.p-5
           .tarjeta-numerada__numero
             .h2 6
           p.text-center 
             b Comparten información
           p.text-center Permiten compartir archivos de manera instantánea y sencilla: documentos, música, fotografías, videos.
-      .col-md-3.col-xl.mb-4.mb-xl-0
+      .col-12.col-md-3.col-lg-3.mb-4
         .tarjeta-numerada.color-acento-contenido.p-5
           .tarjeta-numerada__numero
             .h2 7
@@ -287,7 +406,7 @@
           
       .col-md-6.mb-5.mb-md-0
         figure.justify-center
-          img.img450(src='@/assets/curso/tema3/t3-14.png')
+          img.img450(src='@/assets/curso/tema3/t3-14.svg')
     
     div.mb-5
       p Cada red social cuenta con sus características propias, según su tipo son:
@@ -301,7 +420,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img350(src='@/assets/curso/tema3/f.png', alt='Facebook')
+            img.img350(src='@/assets/curso/tema3/f.svg', alt='Facebook')
       .row
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
@@ -310,7 +429,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img350(src='@/assets/curso/tema3/l.png', alt='LinkedIn')
+            img.img350(src='@/assets/curso/tema3/l.svg', alt='LinkedIn')
       .row
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
@@ -319,7 +438,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img350(src='@/assets/curso/tema3/t.png', alt='Twitter')
+            img.img350(src='@/assets/curso/tema3/t.svg', alt='Twitter')
       .row
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
@@ -328,7 +447,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img350(src='@/assets/curso/tema3/w.png', alt='WhatsApp')
+            img.img350(src='@/assets/curso/tema3/w.svg', alt='WhatsApp')
       .row
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
@@ -337,7 +456,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img350(src='@/assets/curso/tema3/p.png', alt='Pinterest')
+            img.img350(src='@/assets/curso/tema3/p.svg', alt='Pinterest')
       .row
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
@@ -346,7 +465,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img350(src='@/assets/curso/tema3/y.png', alt='YouTube')
+            img.img350(src='@/assets/curso/tema3/y.svg', alt='YouTube')
       .row
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
@@ -355,7 +474,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img350(src='@/assets/curso/tema3/i.png', alt='Instagram')
+            img.img350(src='@/assets/curso/tema3/i.svg', alt='Instagram')
     
     separador
 
@@ -417,12 +536,12 @@
           p Su principal objetivo es la venta y promoción de artículos. 
         .col-md-6
           figure.justify-center
-            img.img250(src='@/assets/curso/tema3/t3-19.svg', alt='img 3-19')
+            img.img160(src='@/assets/curso/tema3/t3-19.svg', alt='img 3-19')
       
       .row
         .col-md-6
           figure.justify-center
-            img.img250(src='@/assets/curso/tema3/t3-20.svg', alt='img 3-20')
+            img.img160(src='@/assets/curso/tema3/t3-20.svg', alt='img 3-20')
         .col-md-6.mb-4.mb-md-0.mt-5
           h3 El sistema de información administrativa (MIS). 
           p Proporcionar información más destacada y relevante que necesita la empresa para la toma de decisiones, y realizar una valoración de datos para ejecutar posteriormente una planificación.
@@ -433,12 +552,12 @@
           p Aquí se incluyen los datos referidos a las actividades comerciales de la empresa. 
         .col-md-6
           figure.justify-center
-            img.img250(src='@/assets/curso/tema3/t3-21.svg', alt='img 3-19')
+            img.img160(src='@/assets/curso/tema3/t3-21.svg', alt='img 3-19')
       
       .row
         .col-md-6
           figure.justify-center
-            img.img250(src='@/assets/curso/tema3/t3-22.svg', alt='img 3-20')
+            img.img160(src='@/assets/curso/tema3/t3-22.svg', alt='img 3-20')
         .col-md-6.mb-4.mb-md-0.mt-5
           h3 El sistema de apoyo a ejecutivos (EIS).  
           p Aportar información y datos relevantes para la toma de decisiones estratégicas en específico.
@@ -449,12 +568,12 @@
           p Su objetivo es compartir la información entre los componentes del grupo para que se faciliten las tareas de trabajo y la cooperación.
         .col-md-6
           figure.justify-center
-            img.img250(src='@/assets/curso/tema3/t3-23.svg', alt='img 3-19')
+            img.img160(src='@/assets/curso/tema3/t3-23.svg', alt='img 3-19')
       
       .row
         .col-md-6
           figure.justify-center
-            img.img250(src='@/assets/curso/tema3/t3-24.svg', alt='img 3-20')
+            img.img160(src='@/assets/curso/tema3/t3-24.svg', alt='img 3-20')
         .col-md-6.mb-4.mb-md-0.mt-5
           h3 El sistema de información para expertos (EDSS).   
           p Busca compartir datos de interés entre determinados segmentos y especialistas para valorar la información consignada.
@@ -477,19 +596,19 @@
             h2.text-center Financieros
             p Se relacionan con el capital y con los activos disponibles de la empresa.
       .tarjeta-avatar
-        img.img160(src='@/assets/curso/tema3/t3-27.svg' alt='AvatarTop')
+        img.img160(src='@/assets/curso/tema3/t3-28.svg' alt='AvatarTop')
         .tarjeta.color-primario
           .text-white.p-4
             h2.text-center Elementos humanos
             p Personal especializado y directivo, como no especializado o común.
       .tarjeta-avatar
-        img.img160(src='@/assets/curso/tema3/t3-28.svg' alt='AvatarTop')
+        img.img160(src='@/assets/curso/tema3/t3-27.svg' alt='AvatarTop')
         .tarjeta.color-primario
           .text-white.p-4
             h2.text-center Tecnológicos
             p Se relaciona con la maquinaria especializada y la capacidad de procesamiento automatizado de la información.
       .tarjeta-avatar
-        img.img160(src='@/assets/curso/tema3/t3-28.svg' alt='AvatarTop')
+        img.img160(src='@/assets/curso/tema3/t3-29.svg' alt='AvatarTop')
         .tarjeta.color-primario
           .text-white.p-4
             h2.text-center Materiales
@@ -498,31 +617,34 @@
     div.mb-5
       p Algunos ejemplos de sistemas de información se pueden evidenciar a continuación: 
     
-    .row.mb-5.justify-center
-      .col-12.col-md-3.col-lg-3.p-4.cont13bgr.me-5
-        figure.justify-end
-          img.img40(src='@/assets/curso/tema3/t3-6.svg')
-        figure.justify-center
-          img.img160(src='@/assets/curso/tema3/t3-30.svg')
-        div.text-center.mt-5
-          h3 Sistemas de control de calidad
-          p Aquí se hace una retroalimentación al cliente y se evalúan los resultados de forma estadística.
-      .col-12.col-md-3.col-lg-3.p-4.cont13bgr.me-5
-        figure.justify-end
-          img.img40(src='@/assets/curso/tema3/t3-6.svg')
-        figure.justify-center
-          img.img160(src='@/assets/curso/tema3/t3-31.svg')
-        div.text-center.mt-5
-          h3 Bases de datos de una biblioteca
-          p Contienen un gran volumen de documentos (libros, revistas, tesis, etc.) Esta base permitirá ubicar y recuperar cada uno de estos documentos de la forma más rápida y precisa.
-      .col-12.col-md-3.col-lg-3.p-4.cont13bgr.me-5
-        figure.justify-end
-          img.img40(src='@/assets/curso/tema3/t3-6.svg')
-        figure.justify-center
-          img.img160(src='@/assets/curso/tema3/t3-32.svg')
-        div.text-center.mt-5
-          h3 Las hojas de cálculo
-          p Permite el ingreso de información y a su vez se puede organizar de manera cuantificable para obtener resultados que permitan la toma de decisiones de tipo financiero, estadístico, etc.  
+    .row.mb-3.justify-center
+      .col-12.col-md-3.col-lg-3.mb-3
+        div.cont13bgr.p-3 
+          figure.justify-end
+            img.img40(src='@/assets/curso/tema3/t3-6.svg')
+          figure.justify-center
+            img.img160(src='@/assets/curso/tema3/t3-30.svg')
+          div.text-center.mt-5
+            h3 Sistemas de control de calidad
+            p Aquí se hace una retroalimentación al cliente y se evalúan los resultados de forma estadística.
+      .col-12.col-md-3.col-lg-3.mb-3
+        div.cont14bgr.p-3
+          figure.justify-end
+            img.img40(src='@/assets/curso/tema3/t3-6.svg')
+          figure.justify-center
+            img.img160(src='@/assets/curso/tema3/t3-31.svg')
+          div.text-center.mt-5
+            h3 Bases de datos de una biblioteca
+            p Contienen un gran volumen de documentos (libros, revistas, tesis, etc.) Esta base permitirá ubicar y recuperar cada uno de estos documentos de la forma más rápida y precisa.
+      .col-12.col-md-3.col-lg-3
+        div.cont13bgr.p-3
+          figure.justify-end
+            img.img40(src='@/assets/curso/tema3/t3-6.svg')
+          figure.justify-center
+            img.img160(src='@/assets/curso/tema3/t3-32.svg')
+          div.text-center.mt-5
+            h3 Las hojas de cálculo
+            p Permite el ingreso de información y a su vez se puede organizar de manera cuantificable para obtener resultados que permitan la toma de decisiones de tipo financiero, estadístico, etc.  
     
     separador
 
@@ -532,97 +654,131 @@
     .row.mb-3
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
         figure.justify-center
-          img.img40(src='@/assets/componentes/puntos.svg', alt='imagen 9')
+          img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
         p Un repositorio es un espacio especializado en almacenar, organizar, mantener y difundir información digital, habitualmente contenida en archivos informáticos, que pueden tener trabajos científicos, conjuntos de datos o software.
         p En otras palabras, se puede decir que es un sistema en la red formado por hardware, software, data y procedimientos que: 
-    
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img.cont9bgr
-        figure.justify-center
-          img.img350(src='@/assets/curso/tema3/t3-33.svg', alt='Imagen 3-33')
-      .bloque-texto-g__texto.p-4
-         ul.lista-ul.p-3
-          li
-            ul
-              li 
-                i.fas.fa-angle-right
-                span Contiene objetos digitales.
-              li 
-                i.fas.fa-angle-right
-                span Contiene metadatos. 
-              li 
-                i.fas.fa-angle-right
-                span Asegura la identificación persistente del objeto mediante un identificador único persistente.
-              li 
-                i.fas.fa-angle-right
-                span Ofrece funciones de gestión, archivo y preservación de los objetos.
-              li 
-                i.fas.fa-angle-right
-                span Proporciona un acceso fácil, controlado y estandarizado de los objetos.
-              li 
-                i.fas.fa-angle-right
-                span Ofrece los sistemas adecuados de seguridad para los objetos y los metadatos.
-              li 
-                i.fas.fa-angle-right
-                span Es sostenible en el tiempo.
-
-    div.mb-5
-      p Estos repositorios se caracterizan por tener contenidos de:
-
+    .bloque-texto-a.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          figure.justify-center
+            img.img350(src='@/assets/curso/tema3/t3-33.svg', alt='Imagen 3-33')
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p.mb-2 En otras palabras, se puede decir que es un sistema en la red formado por hardware, software, data y procedimientos que:
+              ul.lista-ul.p-3
+                li
+                  ul
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Contiene objetos digitales.
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Contiene metadatos. 
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Asegura la identificación persistente del objeto mediante un identificador único persistente.
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Ofrece funciones de gestión, archivo y preservación de los objetos.
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Proporciona un acceso fácil, controlado y estandarizado de los objetos.
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Ofrece los sistemas adecuados de seguridad para los objetos y los metadatos.
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Es sostenible en el tiempo.
     .row.mb-5
-      .col-12.col-md-4.col-lg-4
+      .col-12.col-md-4.col-lg-4.align-items-center.mb-2
         figure.justify-center
           img.img350(src='@/assets/curso/tema3/t3-34.svg', alt='Imagen 3-34')
-      .col-12.col-md-8.col-lg-8
-        figure.justify-center
-          img.img900(src='@/assets/curso/tema3/t3-35.svg', alt='Imagen 3-35')
+      .col-12.col-md-8.col-lg-8.cont24bgr.p-4.mb-3
+        div.cont25bgr.p-4
+          p Estos repositorios se caracterizan por tener contenidos de:
+            ul.lista-ul.mt-3
+              li
+                ul
+                  li
+                    i.fas.fa-check.colorcheck
+                    | Patrimonio cultural de las organizaciones.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-check.colorcheck
+                    | Repositorios académicos. 
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-check.colorcheck
+                    | Documentos de organizaciones gubernamentales.
+            ul.lista-ul
+               li
+                 ul
+                  li
+                     i.fas.fa-check.colorcheck
+                     | Literatura gris.   
+            ul.lista-ul
+               li
+                ul
+                  li
+                     i.fas.fa-check.colorcheck
+                     | Documentos, folletos, boletines, presentaciones, conferencias y otros tipos de materiales.
     
-    div.mb-5
-      p Los repositorios digitales pueden ser institucionales o temáticos y deben garantizar el libre acceso a sus documentos y datos a través de Internet u otras tecnologías de la información adecuadas, estos a su vez deben facilitar las condiciones necesarias para la protección de los derechos de la institución y del autor sobre la producción académica, científica, tecnológica y cultural. 
-      p Un 
-        span.text-black repositorio digital institucional 
-        | es aquel creado, mantenido y autorizado por una institución o grupo de ellas, que recoge contenidos digitales generados por la actividad de los miembros de la institución. Entre sus funciones están: 
-              
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img.cont9bgr
+    .row.mb-5
+      .col-1.d-none.d-lg-block.col-md-1.col-lg-1
         figure.justify-center
-          img.img250(src='@/assets/curso/tema3/t3-36.svg', alt='Imagen 3-33')
-      .bloque-texto-g__texto.p-4
-         ul.lista-ul.p-3
-          li
-            ul
-              li 
-                i.fas.fa-angle-right
-                span Herramienta común de gestión de los contenidos digitales de la institución.
-              li 
-                i.fas.fa-angle-right
-                span Herramienta para apoyar la investigación y el aprendizaje.
-              li 
-                i.fas.fa-angle-right
-                span Vehículo operativo del Open Access.
-              li 
-                i.fas.fa-angle-right
-                span Almacenamiento y preservación digital.
-              li 
-                i.fas.fa-angle-right
-                span Incrementa la visibilidad de los resultados de investigación. 
+          img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
+      .col-12.col-md-11.col-lg-11
+        p Los repositorios digitales pueden ser institucionales o temáticos y deben garantizar el libre acceso a sus documentos y datos a través de Internet u otras tecnologías de la información adecuadas, estos a su vez deben facilitar las condiciones necesarias para la protección de los derechos de la institución y del autor sobre la producción académica, científica, tecnológica y cultural. 
+        
               
+    .bloque-texto-a.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          figure.justify-center
+            img.img250(src='@/assets/curso/tema3/t3-36.svg', alt='Imagen 3-33')
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p Un 
+              span.text-black repositorio digital institucional 
+              | es aquel creado, mantenido y autorizado por una institución o grupo de ellas, que recoge contenidos digitales generados por la actividad de los miembros de la institución. Entre sus funciones están: 
+              ul.lista-ul.p-3
+                li
+                  ul
+                    li 
+                      i.fas.fa-check.colori
+                      span Herramienta común de gestión de los contenidos digitales de la institución.
+                    li 
+                      i.fas.fa-check.colori
+                      span Herramienta para apoyar la investigación y el aprendizaje.
+                    li 
+                      i.fas.fa-check.colori
+                      span Vehículo operativo del Open Access.
+                    li 
+                      i.fas.fa-check.colori
+                      span Almacenamiento y preservación digital.
+                    li 
+                      i.fas.fa-check.colori
+                      span Incrementa la visibilidad de los resultados de investigación. 
+                
     .row.mb-3
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
         figure.justify-center
-          img.img40(src='@/assets/componentes/puntos.svg', alt='imagen 9')
+          img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
       .col-12.col-md-6.col-lg-6
         p Un 
-          span.text-black repositorio digital temático 
-          | reúne sus contenidos en función de su área temática, no por su origen institucional, en torno a una disciplina científica o disciplinas relacionadas. 
+          span.text-black repositorio digital temático             | reúne sus contenidos en función de su área temática, no por su origen institucional, en torno a una disciplina científica o disciplinas relacionadas.
         P Por otra parte, se encuentran los 
           span.text-black repositorios digitales en las bibliotecas,
-          | algunas centran gran parte de su interés o preocupación en la digitalización de documentos: prensa, grabados, tesis, artículos, ponencias, revistas, trabajos de aprendizaje, diapositivas, etc.   
+          | algunas centran gran parte de su interés o preocupación en la digitalización de documentos: prensa, grabados, tesis, artículos, ponencias, revistas, trabajos de aprendizaje, diapositivas, etc.
       .col-12.col-md-5.col-lg-5
         figure.justify-center
           img.img250(src='@/assets/curso/tema3/t3-37.svg', alt='Imagen 3-37')
-    
+        
     separador
 
     #t3_5.titulo-segundo.color-secundario.mb-3
@@ -646,7 +802,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img450(src='@/assets/curso/tema3/t3-39.png', alt='Img 3-39') 
+            img.img450(src='@/assets/curso/tema3/t3-39.svg', alt='Img 3-39') 
       .row
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
@@ -655,7 +811,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img450(src='@/assets/curso/tema3/t3-40.png', alt='Img 3-40') 
+            img.img450(src='@/assets/curso/tema3/t3-40.svg', alt='Img 3-40') 
       .row
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
@@ -664,7 +820,7 @@
      
         .col-12.p-4.col-md-6
           figure.justify-center
-            img.img450(src='@/assets/curso/tema3/t3-41.png', alt='Img 3-41')
+            img.img450(src='@/assets/curso/tema3/t3-41.svg', alt='Img 3-41')
       .row
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5

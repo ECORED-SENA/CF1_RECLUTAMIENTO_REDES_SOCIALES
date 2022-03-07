@@ -9,13 +9,12 @@
       h1 Planeación del reclutamiento
     
     .row.mb-5
-      .col-12.col-md-4.col-lg-4.mb-2
+      .col-12.col-md-7.col-lg-7.mb-2
         p La planeación en las empresas es un proceso utilizado para crear objetivos de la función del personal y para desarrollar estrategias adecuadas para lograr esos objetivos. El proceso de planeación se caracteriza por seguir un modelo adecuado que comprende objetivos organizacionales, pronósticos, planes, programas y evaluación. A continuación, se estudiará el reclutamiento y su planeación.
-      .col-12.col-md-4.col-lg-4.align-items-center.mb-2
+        p Como se mencionó anteriormente, el reclutamiento es un conjunto de procedimientos usados en el proceso de convocatoria de personas aptas para un determinado tipo de actividad. Antes de entrar en más detalle en la planeación, es importante conocer el proceso que se da para el reclutamiento. A continuación, los siguientes procesos:
+      .col-12.col-md-5.col-lg-5.align-items-center.mb-2
         figure
           img.conten1-3(src='@/assets/curso/tema2/t2-1.png', alt='imagen 2-1')
-      .col-12.col-md-4.col-lg-4
-        p Como se mencionó anteriormente, el reclutamiento es un conjunto de procedimientos usados en el proceso de convocatoria de personas aptas para un determinado tipo de actividad. Antes de entrar en más detalle en la planeación, es importante conocer el proceso que se da para el reclutamiento. A continuación, los siguientes procesos:
 
     .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b")
@@ -73,16 +72,24 @@
           .col-md-6
             figure.justify-center
               img.img450(src='@/assets/curso/tema2/t2-7.png', alt='Imagen 2-7')
-    div.mb-5
-      p Por otra parte, existen varias fuentes de reclutamiento que se utilizan en múltiples medios. Estas fuentes permiten conocer un proceso de reclutamiento y estas pueden variar según su tipo, entre estas se encuentran:
 
-      p El 
-        span.text-black reclutamiento interno 
-        | se realiza por comunicación interpersonal o por medios de comunicación interna como e-mail, carteleras, boletines informativos, entre otros. 
+  .container.cont22bgr.p-4.p-md-5
+    
+    .row.mb-5.justify-center
+      .col-12.col-md-2.col-lg-2.align-items-center.cont21bgr   
+        figure.justify-center
+          img.img160(src='@/assets/curso/tema2/ico1.svg', alt='Icono 1')
 
-      p En relación al 
-        span.text-black reclutamiento externo 
-        | se utiliza una gran cantidad de fuentes, entre estas:          
+      .col-12.col-md-6.col-lg-6.p-3.cont21bgr
+        p Por otra parte, existen varias fuentes de reclutamiento que se utilizan en múltiples medios. Estas fuentes permiten conocer un proceso de reclutamiento y estas pueden variar según su tipo, entre estas se encuentran:
+
+        p El 
+          span.text-black reclutamiento interno 
+          | se realiza por comunicación interpersonal o por medios de comunicación interna como e-mail, carteleras, boletines informativos, entre otros. 
+
+        p En relación al 
+          span.text-black reclutamiento externo 
+          | se utiliza una gran cantidad de fuentes, entre estas:          
 
     .row.justify-center
       .col-lg-5
@@ -187,54 +194,101 @@
     .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          h2.mb-0.text-center Para determinar el personal necesario para la empresa por medio de la planeación se requiere que la planificación del reclutamiento esté detallada meticulosamente. A continuación, se encuentran algunos puntos importantes para la planeación: 
+          .mb-0.text-center Para determinar el personal necesario para la empresa por medio de la planeación se requiere que la planificación del reclutamiento esté detallada meticulosamente. A continuación, se encuentran algunos puntos importantes para la planeación: 
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            ul.lista-ul.p-3
+            ul.lista-ul.p-2
               li
                 ul
                   li 
-                    i.fas.fa-angle-right
+                    i.fas.fa-check.colorcheck
                     span Determinar la responsabilidad del reclutamiento.
                   li 
-                    i.fas.fa-angle-right
+                    i.fas.fa-check.colorcheck
                     span Hacer uso de las fuentes de reclutamiento. 
                   li 
-                    i.fas.fa-angle-right
+                    i.fas.fa-check.colorcheck
                     span Guardar las solicitudes recibidas para la vacante. 
                   li 
-                    i.fas.fa-angle-right
+                    i.fas.fa-check.colorcheck
                     span Evaluar a los solicitantes mediante los criterios necesarios para ocupar el cargo. 
                   li 
-                    i.fas.fa-angle-right
+                    i.fas.fa-check.colorcheck
                     span Selección y capacitación del personal adecuado. 
                   li 
-                    i.fas.fa-angle-right
+                    i.fas.fa-check.colorcheck
                     span Designación formal del personal a su cargo y su asignación de actividades. 
 
     .row.mb-5
-      .col-12.col-md-4.col-lg-4.mb-2
+      .col-12.col-md-4.col-lg-4.mb-3
         p Después del proceso de planeación del reclutamiento se debe realizar la selección del personal. Estos términos se encuentran estrechamente unidos, pero son dos procesos totalmente diferentes. Por un lado, el reclutamiento de personal es el proceso mediante el cual se identifica la vacante y el perfil del cargo. Después de esto se realiza la difusión de la información en las diferentes esferas sociales,  
-      .col-12.col-md-4.col-lg-4.mb-2
+      .col-12.col-md-4.col-lg-4.mb-3
         figure.justify-center
-          img.img350(src='@/assets/curso/tema2/t2-8.png', alt='imagen 2-8')
+          img.img350(src='@/assets/curso/tema2/t2-8.svg', alt='imagen 2-8')
       .col-12.col-md-4.col-lg-4
         p a través de las diferentes fuentes con el objetivo de convocar y reclutar candidatos.
-          span.colortext1 Por otra parte, la selección de personal es después del proceso de reclutamiento, aquí se dan varias etapas que se encargan de la selección entre todos los candidatos del más idóneo. Este proceso de selección se realiza a través de las siguientes pautas: 
+          span.colortext1 Por otra parte, la selección de personal es después del proceso de reclutamiento, aquí se dan varias etapas que se encargan de la selección entre todos los candidatos del más idóneo.  
     
-    .row.mb-5
-      .col-12.col-md-8.col-lg-8
+    .row.mb-3
+      .col-12.col-md-8.col-lg-8.cont24bgr.p-4.mb-3
+        div.cont25bgr.p-4
+          p Este proceso de selección se realiza a través de las siguientes pautas:
+            ul.lista-ul.mt-3
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Se hacen entrevistas y evaluaciones tanto psicológicas como de conocimientos.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Se realiza una selección de los     <em>currículum vitae</em> obtenidos (hojas de vida).
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Se seleccionan los primeros candidatos más opcionados según los requerimientos y el perfil del cargo.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Se realiza un informe final sobre los participantes para que el área responsable de la selección decida.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Se informa a la persona seleccionada, después se establece el contrato y los acuerdos.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Se comunica a los no seleccionados la decisión o finalización del proceso.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Se da inicio al proceso de admisión para el seleccionado.
+
+      .col-12.col-md-4.col-lg-4.align-items-center
         figure.justify-center
-          img.img900(src='@/assets/curso/tema2/t2-21.png', alt='imagen 2-21')
-      .col-12.col-md-4.col-lg-4
-        figure.justify-center
-          img.img250(src='@/assets/curso/tema2/t2-9.png', alt='imagen 2-9')
-    
+          img.img250(src='@/assets/curso/tema2/t2-9.svg', alt='imagen 2-9')
+
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+
     separador
 
     #t2_1.titulo-segundo.color-secundario.mb-5
       h2 2.1.	Perfil del cargo y ocupacional 
 
+  .container.cont23bgr.p-4.p-md-5
+    
     p En este apartado es importante que las empresas o el área asignada como responsable del proceso defina muy bien el perfil del cargo. Su definición no debe ser exagerada y en cambio debe ser aterrizada a la necesidad y funciones que exige o amerita la vacante mencionada por la empresa. Para su construcción o definición es importante responderse una serie de interrogantes que permitirán definir de manera adecuada el perfil del cargo, estos interrogantes son: 
 
     ImagenInfografica.color-secundario.mb-5
@@ -257,65 +311,103 @@
       .tarjeta.color-acento-contenido.p-3(x="89%" y="64%" numero="")
         p.text-center ¿Qué competencias necesita demostrar?
       .tarjeta.color-acento-contenido.p-3(x="59%" y="78%" numero="")
-        p.text-center ¿Cuál sería su talento principal y cómo lo identificamos?
-    
-    div.mb-5
-      p Un perfil del cargo, también llamado perfil ocupacional o vacante, es un método de recopilación de los requisitos y cualificaciones personales exigidos para el desempeño satisfactorio de las tareas de un empleado dentro de la empresa, entre los requisitos más comunes se encuentran:
+        p.text-center ¿Cuál sería su talento principal y cómo lo identificamos?     
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img.cont9bgr
-        figure.justify-center
-          img.img250(src='@/assets/curso/tema2/t2-11.svg', alt='Imagen 2-11')
-      .bloque-texto-g__texto.p-4
-        ul.lista-ul.p-3
-          li
-            ul
-              li 
-                i.fas.fa-angle-right
-                span Nivel de estudios.
-              li 
-                i.fas.fa-angle-right
-                span Experiencia.
-              li 
-                i.fas.fa-angle-right
-                span Funciones del cargo o vacante.
-              li 
-                i.fas.fa-angle-right
-                span Requisitos de instrucción y conocimientos.
-              li 
-                i.fas.fa-angle-right
-                span Aptitudes y características de personalidad.
+    .bloque-texto-a.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          figure
+            img(src='@/assets/curso/tema2/t2-11.svg', alt='Imagen 2-11')
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p.mb-2 Un perfil del cargo, también llamado perfil ocupacional o vacante, es un método de recopilación de los requisitos y cualificaciones personales exigidos para el desempeño satisfactorio de las tareas de un empleado dentro de la empresa, entre los requisitos más comunes se encuentran:
+              ul.lista-ul.p-2
+                li
+                  ul
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Nivel de estudios.
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Experiencia.
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Funciones del cargo o vacante.
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Requisitos de instrucción y conocimientos.
+                    li 
+                      i.fas.fa-check.colorcheck
+                      span Aptitudes y características de personalidad.
 
     .row.mb-5
       .col-12.col-md-8.col-lg-8
         p Como se mencionó anteriormente, el perfil del cargo y ocupacional es la descripción general de las características actitudinales, habilidades y destrezas que un trabajador debe desempeñar de manera eficiente en el cargo o puesto de trabajo. La creación de los perfiles ocupacionales permite el análisis y descripción de los cargos que necesita la empresa, y es aquí, donde se inicia el proceso de reclutamiento y selección del personal. 
-        p Por otra parte, existe un conjunto de estándares que describen cómo se compone un perfil del cargo y ocupacional, que responden a un desempeño óptimo del trabajador. Entre estos se tienen: 
+        
       .col-12.col-md-4.col-lg-4
         figure.justify-center
           img.img300(src='@/assets/curso/tema2/t2-12.png', alt='Imagen 2-12')
     
     .row.mb-5
-      .col-12.col-md-4.col-lg-4
+      .col-12.col-md-4.col-lg-4.align-items-center.mb-3
         figure.justify-center
-          img.img450(src='@/assets/curso/tema2/t2-13.svg', alt='Imagen 2-13')
-      .col-12.col-md-8.col-lg-8
-        figure.justify-center
-          img.img900(src='@/assets/curso/tema2/t2-22.png', alt='Imagen 2-22')
+          img.img450(src='@/assets/curso/tema2/t2-13.svg', alt='Imagen 2-22')
+      .col-12.col-md-8.col-lg-8.cont24bgr.p-4.mb-3
+        div.cont25bgr.p-4
+          p Por otra parte, existe un conjunto de estándares que describen cómo se compone un perfil del cargo y ocupacional, que responden a un desempeño óptimo del trabajador. Entre estos se tienen: 
+            ul.lista-ul.mt-3
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Los resultados que un trabajador debe alcanzar en el desempeño de su cargo laboral.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | El contexto en los que ocurre ese desempeño.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Lo que debe saber (su conocimiento y funciones).
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Las habilidades que debe tener en el desarrollo de sus funciones.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Las actitudes que debe mostrar.
+            ul.lista-ul
+              li
+                ul
+                  li
+                    i.fas.fa-atom.colori
+                    | Las evidencias que debe emplear para demostrar su competencia.
+           
+      
     
     p.mb-3 Al momento de elaborar o construir un perfil del cargo y ocupacional, se debe tener presente al menos las siguientes etapas:
 
-    PasosA.color-acento-botones.mb-5(tipo="n")
+    PasosA.color-acento-botones(tipo="n")
       .row
         .col-md-6.mb-4.mb-md-0.mt-5
           h3 La etapa 1. 
           p Consiste en identificar las funciones propias del cargo, aquí se puede emplear la descripción y el análisis de cargos.
         .col-md-6
           figure.justify-center
-            img.img250(src='@/assets/curso/tema2/t2-14.svg', alt='Imagen 2-14')
+            img.img160(src='@/assets/curso/tema2/t2-14.svg', alt='Imagen 2-14')
       .row
         .col-md-6
           figure.justify-center
-            img.img250(src='@/assets/curso/tema2/t2-15.svg', alt='Imagen 2-15')
+            img.img160(src='@/assets/curso/tema2/t2-15.svg', alt='Imagen 2-15')
         .col-md-6.mb-4.mb-md-0.mt-5
           h3 La etapa 2.  
           p Permite describir las competencias básicas requeridas, aquí es importante tener en cuenta su formación profesional y otros niveles educativos. 
@@ -339,18 +431,20 @@
                   li 
                     i.fas.fa-angle-right
                     span Relaciones: es importante el contacto, comunicación y relaciones con otras personas, con los jefes, supervisores y subordinados.
-        .col-md-6
+        .col-md-6.align-items-center
           figure.justify-center
-            img.img250(src='@/assets/curso/tema2/t2-16.svg', alt='Imagen 2-16')
+            img.img160(src='@/assets/curso/tema2/t2-16.svg', alt='Imagen 2-16')
 
       .row
         .col-md-6
           figure.justify-center
-            img.img250(src='@/assets/curso/tema2/t2-17.svg', alt='Imagen 2-17')
+            img.img160(src='@/assets/curso/tema2/t2-17.svg', alt='Imagen 2-17')
         .col-md-6.mb-4.mb-md-0.mt-5
           h3 La etapa 4.
           p Permite describir las competencias técnicas específicas del cargo. 
-        
+
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+
     separador
 
     #t2_2.titulo-segundo.color-secundario.mb-5
@@ -398,12 +492,17 @@
       | Son aquellas que no pertenecen a la empresa, verá más en la siguiente infografía animada.
     
     .row.mb-5
-      .col-12.col-md-6.col-lg-6
+      .col-12.col-md-6.col-lg-6.mb-3
         figure.justify-center
-            img.img300(src='@/assets/curso/tema2/t2-19.png', alt='Imagen 2-19')
+            img.img300(src='@/assets/curso/tema2/t2-19.svg', alt='Imagen 2-19')
       .col-12.col-md-6.col-lg-6
-        h3.text-center.colortext1 Ventajas de las fuentes de reclutamiento externo
-        p La fuentes de reclutamiento externo se buscan a través de servicios de empleo, Internet o por medio de otras entidades encargadas de externalizar el proceso. Algunas de las ventajas de las fuentes de reclutamiento externo son las principales virtudes, como: 
+        h3.text-center Ventajas de las fuentes de reclutamiento externo
+        .row
+          .col-1.d-none.d-lg-block.col-md-2.col-lg-2
+            figure
+              img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
+          .col-12.col-md-10.col-lg-10
+            p La fuentes de reclutamiento externo se buscan a través de servicios de empleo, Internet o por medio de otras entidades encargadas de externalizar el proceso. Algunas de las ventajas de las fuentes de reclutamiento externo son las principales virtudes, como: 
         .cajon.cont11bgr.p-4.mb-4
            ol.lista-ol
             li 
@@ -419,10 +518,15 @@
               span.text-bold 4. 
               | Se genera un ambiente de trabajo diferente. Aquí se incorporan nuevas ideas, métodos y herramientas que conozca el nuevo trabajador.
 
-    .row.mb-5
+    .row.mb-3 
       .col-12.col-md-6.col-lg-6
-        h3.text-center.colortext1 Principales fuentes de reclutamiento externo
-        p Sin embargo, para el proceso de selección externo encontramos las siguientes fuentes, es importante mencionar que de la elección de estas fuentes depende asegurar un proceso de calidad. Aquí encontramos las siguientes: 
+        h3.text-center Principales fuentes de reclutamiento externo
+        .row
+          .col-1.d-none.d-lg-block.col-md-2.col-lg-2
+            figure
+              img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
+          .col-12.col-md-10.col-lg-10
+            p Sin embargo, para el proceso de selección externo encontramos las siguientes fuentes, es importante mencionar que de la elección de estas fuentes depende asegurar un proceso de calidad. Aquí encontramos las siguientes: 
         .cajon.cont11bgr.p-4.mb-4
            ol.lista-ol
             li 
@@ -448,7 +552,7 @@
               | Contenido multimedia: vídeos en YouTube que describan lo que es trabajar con la empresa. 
       .col-12.col-md-6.col-lg-6
         figure.justify-center
-            img.img600(src='@/assets/curso/tema2/t2-20.png', alt='Imagen 2-20')
+            img.img600(src='@/assets/curso/tema2/t2-20.svg', alt='Imagen 2-20')
     
     separador
 
@@ -462,15 +566,37 @@
     .titulo-quinto.color-acento-contenido
       h3 En lo que respecta a las fases del proceso para revisar convocatorias y aplicar se encuentran 
     
-    figure
-      img.img900(src='@/assets/curso/tema2/t2-23.svg', alt='Imagen 2-23')
+    .row.mb-5
+      .col-12.col-mb-3.col-lg-3
+        figure
+          img.img250(src='@/assets/curso/tema2/t2-23-1.svg', alt='Imagen 2-23')
+      .col-12.col-mb-3.col-lg-3
+        figure
+          img.img250(src='@/assets/curso/tema2/t2-23-2.svg', alt='Imagen 2-23')
+      .col-12.col-mb-3.col-lg-3
+        figure
+          img.img250(src='@/assets/curso/tema2/t2-23-3.svg', alt='Imagen 2-23')
+      .col-12.col-mb-3.col-lg-3
+        figure
+          img.img250(src='@/assets/curso/tema2/t2-23-4.svg', alt='Imagen 2-23')
     
     .titulo-quinto.color-acento-contenido
       h3 Por otro lado, se encuentran las partes de una convocatoria, estas deben contener
     
-    figure
-      img.img900(src='@/assets/curso/tema2/t2-24.svg', alt='Imagen 2-24')
-    
+    .row.mb-5
+      .col-12.col-mb-3.col-lg-3
+        figure
+          img.img250(src='@/assets/curso/tema2/t2-24-1.svg', alt='Imagen 2-24')
+      .col-12.col-mb-3.col-lg-3
+        figure
+          img.img250(src='@/assets/curso/tema2/t2-24-2.svg', alt='Imagen 2-24')
+      .col-12.col-mb-3.col-lg-3
+        figure
+          img.img250(src='@/assets/curso/tema2/t2-24-3.svg', alt='Imagen 2-24')
+      .col-12.col-mb-3.col-lg-3
+        figure
+          img.img250(src='@/assets/curso/tema2/t2-24-4.svg', alt='Imagen 2-24')
+
     div.mb-5
       p A continuación, se mencionan algunos pasos y requisitos para publicar una convocatoria: 
     
