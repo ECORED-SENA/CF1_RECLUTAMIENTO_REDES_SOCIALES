@@ -14,7 +14,7 @@
         p La forma de lograr lo anterior es implementando procesos de selección inteligentes que involucren nuevas tecnologías, mejores prácticas, metodologías, sistemas, automatización, pruebas y herramientas. 
       .col-12.col-md-5.col-lg-5
         figure.justify-center
-          img.img600(src='@/assets/curso/tema3/t3-1.png', alt='Imagen 3-1')    
+          img.img350(src='@/assets/curso/tema3/t3-1.png', alt='Imagen 3-1')    
     
     .bloque-texto-a.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between

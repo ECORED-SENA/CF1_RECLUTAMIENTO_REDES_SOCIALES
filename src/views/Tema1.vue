@@ -380,37 +380,22 @@
     
     .row.mb-5
       .col-12.col-md-6.col-lg-6.mb-3
-        ul.lista-ul.p-3.cont16bgr
-          li
-            ul
-              li
-                i.fas.fa-atom.colortext1
-                | Cuando alguien ha sido ascendido dentro de la organización.
-               
-        ul.lista-ul.p-3.cont17bgr
-          li
-            ul
-              li 
-                i.fas.fa-atom.colortext1
-                span Cuando la persona renuncia por mejores oportunidades o nuevas propuestas. 
-        ul.lista-ul.p-3.cont16bgr
-          li
-            ul
-              li 
-                i.fas.fa-atom.colortext1
-                span Jubilación. 
-        ul.lista-ul.p-3.cont17bgr
-          li
-            ul
-              li 
-                i.fas.fa-atom.colortext1
-                span Por un proceso de expansión de la empresa.
-        ul.lista-ul.p-3.cont16bgr
-          li
-            ul
-              li 
-                i.fas.fa-atom.colortext1
-                span Entre otras.   
+        ul.lista-ul.p-3
+          li.p-3.cont16bgr
+            i.fas.fa-atom.colortext1
+            | Cuando alguien ha sido ascendido dentro de la organización.
+          li.p-3.cont17bgr 
+            i.fas.fa-atom.colortext1
+            span Cuando la persona renuncia por mejores oportunidades o nuevas propuestas. 
+          li.p-3.cont16bgr
+            i.fas.fa-atom.colortext1
+            span Jubilacíon.
+          li.p-3.cont17bgr 
+            i.fas.fa-atom.colortext1
+            span Por un proceso de expansión de la empresa.
+          li.p-3.cont16bgr 
+            i.fas.fa-atom.colortext1
+            span Entre otras.   
 
       .col-12.col-md-6.col-lg-6.justify-center
         img.img450(src='@/assets/curso/tema1/t1-33.svg', alt='Texto que describa la imagen')
@@ -508,30 +493,19 @@
     
     .row.mb-5.align-items-center
       .col-12.col-md-7.col-lg-7.mb-3
-        ul.lista-ul.p-3.cont18bgr
-          li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | Agrupar los criterios técnicos que permitan una adecuada selección de personal.
-        ul.lista-ul.p-3.cont19bgr
-          li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | Definir los lineamientos para el reclutamiento y selección de personal en función de las necesidades de la empresa.
-        ul.lista-ul.p-3.cont18bgr
-          li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | Concretar la forma técnica en que habrá lugar a los procesos de selección.
-        ul.lista-ul.p-3.cont19bgr
-          li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | Garantizar el bienestar de los trabajadores y de la empresa.
+        ul.lista-ul.p-3
+          li.p-3.cont19bgr
+            i.fas.fa-atom.colori
+            | Agrupar los criterios técnicos que permitan una adecuada selección de personal.
+          li.p-3.cont18bgr
+            i.fas.fa-atom.colori
+            | Definir los lineamientos para el reclutamiento y selección de personal en función de las necesidades de la empresa.
+          li.p-3.cont19bgr
+            i.fas.fa-atom.colori
+            | Concretar la forma técnica en que habrá lugar a los procesos de selección.
+          li.p-3.cont18bgr
+            i.fas.fa-atom.colori
+            | Garantizar el bienestar de los trabajadores y de la empresa.
 
       .col-12.col-md-5.col-lg-5
         figure.justify-center
