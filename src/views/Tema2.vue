@@ -289,30 +289,11 @@
 
   .container.cont23bgr.p-4.p-md-5
     
-    p En este apartado es importante que las empresas o el área asignada como responsable del proceso defina muy bien el perfil del cargo. Su definición no debe ser exagerada y en cambio debe ser aterrizada a la necesidad y funciones que exige o amerita la vacante mencionada por la empresa. Para su construcción o definición es importante responderse una serie de interrogantes que permitirán definir de manera adecuada el perfil del cargo, estos interrogantes son: 
+    p.mb-3 En este apartado es importante que las empresas o el área asignada como responsable del proceso defina muy bien el perfil del cargo. Su definición no debe ser exagerada y en cambio debe ser aterrizada a la necesidad y funciones que exige o amerita la vacante mencionada por la empresa. Para su construcción o definición es importante responderse una serie de interrogantes que permitirán definir de manera adecuada el perfil del cargo, estos interrogantes son: 
 
-    ImagenInfografica.color-secundario.mb-5
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/tema2/t2-10.svg', alt='Imagen 2-10')
+    figure.mb-3
+      img(src='@/assets/curso/tema2/t2-10.svg', alt='Imagen 2-10')
           
-      .tarjeta.color-acento-contenido.p-3(x="41%" y="8%" numero="")
-        p.text-center ¿Se justifica el cargo?
-      .tarjeta.color-acento-contenido.p-3(x="66%" y="8%" numero="")
-        p.text-center ¿Para qué?
-      .tarjeta.color-acento-contenido.p-3(x="89%" y="19%" numero="")
-        p.text-center ¿Cuál es su misión y resultados?
-      .tarjeta.color-acento-contenido.p-3(x="48%" y="31%" numero="")
-        p.text-center ¿Cuáles son los principales criterios de selección?
-      .tarjeta.color-acento-contenido.p-3(x="73%" y="46%" numero="")
-        p.text-center ¿Cuál sería el candidato ideal?
-      .tarjeta.color-acento-contenido.p-3(x="43%" y="59%" numero="")
-        p.text-center ¿Cuáles son sus responsabilidades?
-      .tarjeta.color-acento-contenido.p-3(x="89%" y="64%" numero="")
-        p.text-center ¿Qué competencias necesita demostrar?
-      .tarjeta.color-acento-contenido.p-3(x="59%" y="78%" numero="")
-        p.text-center ¿Cuál sería su talento principal y cómo lo identificamos?     
-
     .bloque-texto-a.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
@@ -413,25 +394,24 @@
           p Permite describir las competencias básicas requeridas, aquí es importante tener en cuenta su formación profesional y otros niveles educativos. 
         
       .row
-        .col-md-6.mb-4.mb-md-0.align-items-center
+        .col-md-8.mb-4.mb-md-0.align-items-center
           h3 La etapa 3.   
           p Describir las competencias generales en relación a:
             ul.lista-ul.p-3
-              li
-                ul
-                  li 
-                    i.fas.fa-angle-right
-                    span Funciones del trabajo: lo que debe saber hacer, qué problemas resolverá y cómo.
-                  li 
-                    i.fas.fa-angle-right
-                    span Requerimientos del trabajo: experiencia laboral, certificación, edad, esfuerzo físico, idiomas, actitudes sociales y participativas, formación académica, cualidades psicofísicas, adaptativas y habilidades.
-                  li 
-                    i.fas.fa-angle-right
-                    span Condiciones medioambientales: condiciones atmosféricas, lugar del trabajo, riesgos, clima, contaminación, entorno laboral, remuneraciones, entre otras.
-                  li 
-                    i.fas.fa-angle-right
-                    span Relaciones: es importante el contacto, comunicación y relaciones con otras personas, con los jefes, supervisores y subordinados.
-        .col-md-6.align-items-center
+              li 
+                i.fas.fa-check.colori
+                span Funciones del trabajo: lo que debe saber hacer, qué problemas resolverá y cómo.
+              li 
+                i.fas.fa-check.colori
+                span Requerimientos del trabajo: experiencia laboral, certificación, edad, esfuerzo físico, idiomas, actitudes sociales y participativas, formación académica, cualidades psicofísicas, adaptativas y habilidades.
+              li 
+                i.fas.fa-check.colori
+                span Condiciones medioambientales: condiciones atmosféricas, lugar del trabajo, riesgos, clima, contaminación, entorno laboral, remuneraciones, entre otras.
+              li 
+                i.fas.fa-check.colori
+                span Relaciones: es importante el contacto, comunicación y relaciones con otras personas, con los jefes, supervisores y subordinados.
+
+        .col-md-4.align-items-center
           figure.justify-center
             img.img160(src='@/assets/curso/tema2/t2-16.svg', alt='Imagen 2-16')
 
@@ -550,9 +530,9 @@
             li 
               span.text-bold 7. 
               | Contenido multimedia: vídeos en YouTube que describan lo que es trabajar con la empresa. 
-      .col-12.col-md-6.col-lg-6
+      .col-12.col-md-6.col-lg-6.align-items-center
         figure.justify-center
-            img.img600(src='@/assets/curso/tema2/t2-20.svg', alt='Imagen 2-20')
+            img.img350(src='@/assets/curso/tema2/t2-20.svg', alt='Imagen 2-20')
     
     separador
 
@@ -569,16 +549,16 @@
     .row.mb-5
       .col-12.col-mb-3.col-lg-3
         figure
-          img.img250(src='@/assets/curso/tema2/t2-23-1.svg', alt='Imagen 2-23')
+          img.img250(src='@/assets/curso/tema2/t2-23-1.png', alt='Imagen 2-23')
       .col-12.col-mb-3.col-lg-3
         figure
-          img.img250(src='@/assets/curso/tema2/t2-23-2.svg', alt='Imagen 2-23')
+          img.img250(src='@/assets/curso/tema2/t2-23-2.png', alt='Imagen 2-23')
       .col-12.col-mb-3.col-lg-3
         figure
-          img.img250(src='@/assets/curso/tema2/t2-23-3.svg', alt='Imagen 2-23')
+          img.img250(src='@/assets/curso/tema2/t2-23-3.png', alt='Imagen 2-23')
       .col-12.col-mb-3.col-lg-3
         figure
-          img.img250(src='@/assets/curso/tema2/t2-23-4.svg', alt='Imagen 2-23')
+          img.img250(src='@/assets/curso/tema2/t2-23-4.png', alt='Imagen 2-23')
     
     .titulo-quinto.color-acento-contenido
       h3 Por otro lado, se encuentran las partes de una convocatoria, estas deben contener
@@ -586,16 +566,16 @@
     .row.mb-5
       .col-12.col-mb-3.col-lg-3
         figure
-          img.img250(src='@/assets/curso/tema2/t2-24-1.svg', alt='Imagen 2-24')
+          img.img250(src='@/assets/curso/tema2/t2-24-1.png', alt='Imagen 2-24')
       .col-12.col-mb-3.col-lg-3
         figure
-          img.img250(src='@/assets/curso/tema2/t2-24-2.svg', alt='Imagen 2-24')
+          img.img250(src='@/assets/curso/tema2/t2-24-2.png', alt='Imagen 2-24')
       .col-12.col-mb-3.col-lg-3
         figure
-          img.img250(src='@/assets/curso/tema2/t2-24-3.svg', alt='Imagen 2-24')
+          img.img250(src='@/assets/curso/tema2/t2-24-3.png', alt='Imagen 2-24')
       .col-12.col-mb-3.col-lg-3
         figure
-          img.img250(src='@/assets/curso/tema2/t2-24-4.svg', alt='Imagen 2-24')
+          img.img250(src='@/assets/curso/tema2/t2-24-4.png', alt='Imagen 2-24')
 
     div.mb-5
       p A continuación, se mencionan algunos pasos y requisitos para publicar una convocatoria: 

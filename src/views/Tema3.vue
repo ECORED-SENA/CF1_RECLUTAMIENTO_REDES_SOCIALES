@@ -25,28 +25,26 @@
           .bloque-texto-a__texto.p-4
             p Al momento de aplicar estas técnicas de talento humano 5.0 se encuentran algunos retos en la selección, entre estos se hallan:
               ul.lista-ul.p-3
-                li
-                  ul
-                    li 
-                      i.fas.fa-angle-right
-                      span.text-black Definir: 
-                    p El perfil del cargo.
-                    li 
-                      i.fas.fa-angle-right
-                      span.text-black Reclutar: 
-                    p Candidatos que cumplan con el perfil. Hacer uso de las páginas, e-mail, SMS, multiposting, etc.
-                    li 
-                      i.fas.fa-angle-right
-                      span.text-black Evaluar: 
-                    p Pruebas y entrevistas (de forma virtual y de calificación automáticas). 
-                    li 
-                      i.fas.fa-angle-right
-                      span.text-black Seleccionar: 
-                    p Estudiar y verificar a los posibles candidatos para observar si están mintiendo o dicen la verdad sobre sus conocimientos, actitud, aptitud, experiencia, documentación, antecedentes, etc.
-                    li 
-                      i.fas.fa-angle-right
-                      span.text-black Organizar: 
-                    p Aplicar mecanismos de organización para dar trazabilidad al proceso. Aquí es importante generar informes, tener presente datos estadísticos del proceso y contar con el banco de candidatos.
+                li 
+                  i.fas.fa-check.colorcheck
+                  span.text-black Definir: 
+                  | El perfil del cargo.
+                li 
+                  i.fas.fa-check.colorcheck
+                  span.text-black Reclutar: 
+                  | Candidatos que cumplan con el perfil. Hacer uso de las páginas, e-mail, SMS, multiposting, etc.
+                li 
+                  i.fas.fa-check.colorcheck
+                  span.text-black Evaluar: 
+                  | Pruebas y entrevistas (de forma virtual y de calificación automáticas). 
+                li 
+                  i.fas.fa-check.colorcheck
+                  span.text-black Seleccionar: 
+                  | Estudiar y verificar a los posibles candidatos para observar si están mintiendo o dicen la verdad sobre sus conocimientos, actitud, aptitud, experiencia, documentación, antecedentes, etc. 
+                li 
+                  i.fas.fa-check.colorcheck
+                  span.text-black Organizar: 
+                  | Aplicar mecanismos de organización para dar trazabilidad al proceso. Aquí es importante generar informes, tener presente datos estadísticos del proceso y contar con el banco de candidatos. 
     
     div.mb-5
       p Por otra parte, se encuentran algunas características del proceso de selección de talento humano 5.0: 
@@ -55,46 +53,32 @@
       .col-12.col-md-7.col-lg-7.mb-3
         ul.lista-ul.p-3.cont18bgr
           li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | Conectividad como canal principal (candidatos y empresa, deben contar con dispositivos).
+            i.fas.fa-atom.colori
+            | Conectividad como canal principal (candidatos y empresa, deben contar con dispositivos).
         ul.lista-ul.p-3.cont19bgr
           li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | Personalización (se debe realizar una personalización según los candidatos, a través de los medios de comunicación y recepción de información. “Plataformas”). 
+            i.fas.fa-atom.colori
+            | Personalización (se debe realizar una personalización según los candidatos, a través de los medios de comunicación y recepción de información. “Plataformas”). 
         ul.lista-ul.p-3.cont18bgr
           li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | Crear una relación con el candidato que permita el intercambio de información.
+            i.fas.fa-atom.colori
+            | Crear una relación con el candidato que permita el intercambio de información.
         ul.lista-ul.p-3.cont19bgr
           li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | Tener la huella del candidato en la nube, manejar plataformas informáticas. 
+            i.fas.fa-atom.colori
+            | Tener la huella del candidato en la nube, manejar plataformas informáticas. 
         ul.lista-ul.p-3.cont18bgr
           li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | <em>Big data</em>, trazabilidad de candidatos y procesos (bases de datos automatizadas).
+            i.fas.fa-atom.colori
+            | <em>Big data</em>, trazabilidad de candidatos y procesos (bases de datos automatizadas).
         ul.lista-ul.p-3.cont19bgr
           li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | <em>Marketing</em> disruptivo (¿dónde buscar candidatos?).
+            i.fas.fa-atom.colori
+            | <em>Marketing</em> disruptivo (¿dónde buscar candidatos?).
         ul.lista-ul.p-3.cont18bgr
           li
-            ul
-              li
-                i.fas.fa-atom.colori
-                | Contratos flexibles. 
+            i.fas.fa-atom.colori
+            | Contratos flexibles. 
       .col-12.col-md-5.col-lg-5.mb-3.align-items-center
         figure.justify-center
           img.img450(src='@/assets/curso/tema3/t3-2-1.png', alt='Imagen 3-2-1')
@@ -106,44 +90,27 @@
       .col-12.col-md-8.col-lg-8.cont24bgr.p-4.mb-3
         div.cont25bgr.p-4
           p No obstante, todo proceso de selección necesita de herramientas que permitan la elección adecuada o correcta, pero, sobre todo que permita la personalización, eficiencia y practicidad para el proceso. Entre estas se encuentran:
-            ul.lista-ul.mt-3
+            ul.lista-ul.mt-3.p-3
               li
-                ul
-                  li
-                    i.fas.fa-atom.colori
-                    | Sistemas de seguimiento a los aplicantes.
-            ul.lista-ul
+                i.fas.fa-atom.colori
+                | Sistemas de seguimiento a los aplicantes.
               li
-                ul
-                  li
-                    i.fas.fa-atom.colori
-                    |Pruebas <em>online</em> optimizadas y personalizables. 
-            ul.lista-ul
+                i.fas.fa-atom.colori
+                |Pruebas <em>online</em> optimizadas y personalizables. 
               li
-                ul
-                  li
-                    i.fas.fa-atom.colori
-                    | Video entrevistas.
-            ul.lista-ul
+                i.fas.fa-atom.colori
+                | Video entrevistas.
               li
-                ul
-                  li
-                    i.fas.fa-atom.colori
-                    | <em>Bot´s</em> (filtro automático contable para elegir al candidato).  
-            ul.lista-ul
+                i.fas.fa-atom.colori
+                | <em>Bot´s</em> (filtro automático contable para elegir al candidato).  
               li
-                ul
-                  li
-                    i.fas.fa-atom.colori
-                    | Banco de hojas de vida.
-            ul.lista-ul
+                i.fas.fa-atom.colori
+                | Banco de hojas de vida.
               li
-                ul
-                  li
-                    i.fas.fa-atom.colori
-                    | Redes sociales y profesionales.       
+                i.fas.fa-atom.colori
+                | Redes sociales y profesionales.       
     
-    div.mb-3
+    div.mb-5
       p Para realizar un proceso de selección por medio de las nuevas técnicas de selección 5.0se debe tener presente algunos de los procesos a continuación: 
     
     div.mb-2.justify-center
@@ -219,51 +186,39 @@
     .row.mb-3
       .col-12.col-md-3.col-lg-3.p-4
         div.cont26bgr.p-3
-          .row
-            .col-10.col-md-10.col-lg-10
-              h3.text-center Capturar los datos
-            .col-2.col-md-2.col-kg-2
-              img.img40(src='@/assets/curso/tema3/t3-6.svg')
-          .row.mb-3
-            .col-12.col-md-12.col-lg-12
-              figure.justify-center
-                img.img160(src='@/assets/curso/tema3/t3-7.svg')
+          figure.justify-end
+            img.img40(src='@/assets/curso/tema3/t3-6.svg')
+          
+          figure.justify-center.mb-3
+            img.img160(src='@/assets/curso/tema3/t3-7.svg')
+          h3.text-center Capturar los datos
           p.text-center A través de sensores, los dispositivos capturan datos de sus entornos (temperatura, etc.).
       .col-12.col-md-3.col-lg-3.p-4
         div.cont27bgr.p-3
-          .row
-            .col-10.col-md-10.col-lg-10
-              h3.text-center Compartir los datos 
-            .col-2.col-md-2.col-kg-2
-              img.img40(src='@/assets/curso/tema3/t3-6.svg')
-          .row.mb-3
-            .col-12.col-md-12.col-lg-12
-              figure.justify-center
-                img.img160(src='@/assets/curso/tema3/t3-8.svg')
+          figure.justify-end
+            img.img40(src='@/assets/curso/tema3/t3-6.svg')
+            
+          figure.justify-center.mb-3
+            img.img160(src='@/assets/curso/tema3/t3-8.svg')
+          h3.text-center Compartir los datos 
           p.text-center Por medio de conexiones de red disponibles, los dispositivos permiten el acceso de estos datos a través de una nube pública o privada. 
       .col-12.col-md-3.col-lg-3.p-4
         div.cont26bgr.p-3
-          .row
-            .col-10.col-md-10.col-lg-10
-              h3.text-center Procesar los datos 
-            .col-2.col-md-2.col-kg-2
-              img.img40(src='@/assets/curso/tema3/t3-6.svg')
-          .row.mb-3
-            .col-12.col-md-12.col-lg-12
-              figure.justify-center
-                img.img160(src='@/assets/curso/tema3/t3-9.svg')
+          figure.justify-end
+            img.img40(src='@/assets/curso/tema3/t3-6.svg')
+
+          figure.justify-center.mb-3
+            img.img160(src='@/assets/curso/tema3/t3-9.svg')
+          h3.text-center Procesar los datos
           p.text-center Por medio de un software se programa para que realice una función según la base de datos. Un ejemplo puede ser el de encender una bombilla o enviar una advertencia.
       .col-12.col-md-3.col-lg-3.p-4
         div.cont27bgr.p-3
-          .row
-            .col-10.col-md-10.col-lg-10
-              h3.text-center Actuar según los datos 
-            .col-2.col-md-2.col-kg-2
-              img.img40(src='@/assets/curso/tema3/t3-6.svg')
-          .row.mb-3
-            .col-12.col-md-12.col-lg-12
-              figure.justify-center
-                img.img160(src='@/assets/curso/tema3/t3-10.svg')
+          figure.justify-end
+            img.img40(src='@/assets/curso/tema3/t3-6.svg')
+              
+          figure.justify-center.mb-3
+            img.img160(src='@/assets/curso/tema3/t3-10.svg')
+          h3.text-center Actuar según los datos
           p.text-center Se analiza la base de datos de todos los dispositivos de la red, con el objetivo de brindar información estratégica para establecer acciones y decisiones de la empresa. 
 
     separador
@@ -299,42 +254,28 @@
       .col-12.col-md-8.col-lg-8.cont28bgr.p-4.mb-3
         div.cont25bgr.p-4
           p Por otra parte, se encuentran las características de las redes sociales:
-            ul.lista-ul.mt-3
+            ul.lista-ul.mt-3.p-3
               li
-                ul
-                  li
-                    i.fas.fa-check.colorcheck
-                    | Están conformadas por una comunidad virtual.
-            ul.lista-ul
+                i.fas.fa-check.colorcheck
+                | Están conformadas por una comunidad virtual.
               li
-                ul
-                  li
-                    i.fas.fa-check.colorcheck
-                    | Pueden ser utilizadas desde computadoras, <em>tablet</em> o dispositivos móviles.
-            ul.lista-ul
+                i.fas.fa-check.colorcheck
+                | Pueden ser utilizadas desde computadoras, <em>tablet</em> o dispositivos móviles.
               li
-                ul
-                  li
-                    i.fas.fa-check.colorcheck
-                    | Son de acceso gratuito y algunas ofrecen otras funcionalidades a cambio de un pago mensual o anual. 
-            ul.lista-ul
+                i.fas.fa-check.colorcheck
+                | Son de acceso gratuito y algunas ofrecen otras funcionalidades a cambio de un pago mensual o anual. 
               li
-                ul
-                  li
-                    i.fas.fa-check.colorcheck
-                    | Brindan información en tiempo real.
-            ul.lista-ul
+                i.fas.fa-check.colorcheck
+                | Brindan información en tiempo real.
               li
-                ul
-                  li
-                    i.fas.fa-check.colorcheck
-                    | Permiten a cada usuario crear un perfil dentro de la red para poder interactuar con los demás. 
+                i.fas.fa-check.colorcheck
+                | Permiten a cada usuario crear un perfil dentro de la red para poder interactuar con los demás. 
     
-    div.mb-3
+    div.mb-5
       h3 Ventajas de las redes sociales
       p Las redes sociales brindan una serie de ventajas o beneficios, y esto les ha permitido ser protagonistas dentro de la Web. Entre estas ventajas se encuentran: 
     
-    .row.mb-2
+    .row.mb-3
       .col-md-3.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-contenido.p-5
           .tarjeta-numerada__numero
@@ -586,31 +527,31 @@
       .tarjeta-avatar
         img.img160(src='@/assets/curso/tema3/t3-25.svg' alt='AvatarTop')
         .tarjeta.color-primario
-          .text-white.p-4
+          .text-white.p-3
             h2.text-center Administrativos
             p Están relacionados con los procesos, la dirección, informes, transacciones, etc.
       .tarjeta-avatar
         img.img160(src='@/assets/curso/tema3/t3-26.svg' alt='AvatarTop')
         .tarjeta.color-primario
-          .text-white.p-4
+          .text-white.p-3
             h2.text-center Financieros
             p Se relacionan con el capital y con los activos disponibles de la empresa.
       .tarjeta-avatar
         img.img160(src='@/assets/curso/tema3/t3-28.svg' alt='AvatarTop')
         .tarjeta.color-primario
-          .text-white.p-4
+          .text-white.p-3
             h2.text-center Elementos humanos
             p Personal especializado y directivo, como no especializado o común.
       .tarjeta-avatar
         img.img160(src='@/assets/curso/tema3/t3-27.svg' alt='AvatarTop')
         .tarjeta.color-primario
-          .text-white.p-4
+          .text-white.p-3
             h2.text-center Tecnológicos
             p Se relaciona con la maquinaria especializada y la capacidad de procesamiento automatizado de la información.
       .tarjeta-avatar
         img.img160(src='@/assets/curso/tema3/t3-29.svg' alt='AvatarTop')
         .tarjeta.color-primario
-          .text-white.p-4
+          .text-white.p-3
             h2.text-center Materiales
             p Se refiere a la colocación del sistema, a su soporte físico y ubicación.
     
@@ -636,7 +577,7 @@
           div.text-center.mt-5
             h3 Bases de datos de una biblioteca
             p Contienen un gran volumen de documentos (libros, revistas, tesis, etc.) Esta base permitirá ubicar y recuperar cada uno de estos documentos de la forma más rápida y precisa.
-      .col-12.col-md-3.col-lg-3
+      .col-12.col-md-3.col-lg-3.mb-3
         div.cont13bgr.p-3
           figure.justify-end
             img.img40(src='@/assets/curso/tema3/t3-6.svg')
@@ -665,68 +606,52 @@
             img.img350(src='@/assets/curso/tema3/t3-33.svg', alt='Imagen 3-33')
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p.mb-2 En otras palabras, se puede decir que es un sistema en la red formado por hardware, software, data y procedimientos que:
+            p.mb-3 En otras palabras, se puede decir que es un sistema en la red formado por hardware, software, data y procedimientos que:
               ul.lista-ul.p-3
-                li
-                  ul
-                    li 
-                      i.fas.fa-check.colorcheck
-                      span Contiene objetos digitales.
-                    li 
-                      i.fas.fa-check.colorcheck
-                      span Contiene metadatos. 
-                    li 
-                      i.fas.fa-check.colorcheck
-                      span Asegura la identificación persistente del objeto mediante un identificador único persistente.
-                    li 
-                      i.fas.fa-check.colorcheck
-                      span Ofrece funciones de gestión, archivo y preservación de los objetos.
-                    li 
-                      i.fas.fa-check.colorcheck
-                      span Proporciona un acceso fácil, controlado y estandarizado de los objetos.
-                    li 
-                      i.fas.fa-check.colorcheck
-                      span Ofrece los sistemas adecuados de seguridad para los objetos y los metadatos.
-                    li 
-                      i.fas.fa-check.colorcheck
-                      span Es sostenible en el tiempo.
+                li 
+                  i.fas.fa-check.colorcheck
+                  span Contiene objetos digitales.
+                li 
+                  i.fas.fa-check.colorcheck
+                  span Contiene metadatos. 
+                li 
+                  i.fas.fa-check.colorcheck
+                  span Asegura la identificación persistente del objeto mediante un identificador único persistente.
+                li 
+                  i.fas.fa-check.colorcheck
+                  span Ofrece funciones de gestión, archivo y preservación de los objetos.
+                li 
+                  i.fas.fa-check.colorcheck
+                  span Proporciona un acceso fácil, controlado y estandarizado de los objetos.
+                li 
+                  i.fas.fa-check.colorcheck
+                  span Ofrece los sistemas adecuados de seguridad para los objetos y los metadatos.
+                li 
+                  i.fas.fa-check.colorcheck
+                  span Es sostenible en el tiempo.
     .row.mb-5
       .col-12.col-md-4.col-lg-4.align-items-center.mb-2
         figure.justify-center
           img.img350(src='@/assets/curso/tema3/t3-34.svg', alt='Imagen 3-34')
       .col-12.col-md-8.col-lg-8.cont24bgr.p-4.mb-3
         div.cont25bgr.p-4
-          p Estos repositorios se caracterizan por tener contenidos de:
-            ul.lista-ul.mt-3
+          p.mb-3 Estos repositorios se caracterizan por tener contenidos de:
+            ul.lista-ul.p-3
               li
-                ul
-                  li
-                    i.fas.fa-check.colorcheck
-                    | Patrimonio cultural de las organizaciones.
-            ul.lista-ul
+                i.fas.fa-check.colorcheck
+                | Patrimonio cultural de las organizaciones.
               li
-                ul
-                  li
-                    i.fas.fa-check.colorcheck
-                    | Repositorios académicos. 
-            ul.lista-ul
+                i.fas.fa-check.colorcheck
+                | Repositorios académicos. 
               li
-                ul
-                  li
-                    i.fas.fa-check.colorcheck
-                    | Documentos de organizaciones gubernamentales.
-            ul.lista-ul
-               li
-                 ul
-                  li
-                     i.fas.fa-check.colorcheck
-                     | Literatura gris.   
-            ul.lista-ul
-               li
-                ul
-                  li
-                     i.fas.fa-check.colorcheck
-                     | Documentos, folletos, boletines, presentaciones, conferencias y otros tipos de materiales.
+                i.fas.fa-check.colorcheck
+                | Documentos de organizaciones gubernamentales.
+              li
+                i.fas.fa-check.colorcheck
+                | Literatura gris.   
+              li
+                i.fas.fa-check.colorcheck
+                | Documentos, folletos, boletines, presentaciones, conferencias y otros tipos de materiales.
     
     .row.mb-5
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
@@ -743,27 +668,25 @@
             img.img250(src='@/assets/curso/tema3/t3-36.svg', alt='Imagen 3-33')
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p Un 
+            p.mb-3 Un 
               span.text-black repositorio digital institucional 
               | es aquel creado, mantenido y autorizado por una institución o grupo de ellas, que recoge contenidos digitales generados por la actividad de los miembros de la institución. Entre sus funciones están: 
               ul.lista-ul.p-3
-                li
-                  ul
-                    li 
-                      i.fas.fa-check.colori
-                      span Herramienta común de gestión de los contenidos digitales de la institución.
-                    li 
-                      i.fas.fa-check.colori
-                      span Herramienta para apoyar la investigación y el aprendizaje.
-                    li 
-                      i.fas.fa-check.colori
-                      span Vehículo operativo del Open Access.
-                    li 
-                      i.fas.fa-check.colori
-                      span Almacenamiento y preservación digital.
-                    li 
-                      i.fas.fa-check.colori
-                      span Incrementa la visibilidad de los resultados de investigación. 
+                li 
+                  i.fas.fa-check.colori
+                  span Herramienta común de gestión de los contenidos digitales de la institución.
+                li 
+                  i.fas.fa-check.colori
+                  span Herramienta para apoyar la investigación y el aprendizaje.
+                li 
+                  i.fas.fa-check.colori
+                  span Vehículo operativo del Open Access.
+                li 
+                  i.fas.fa-check.colori
+                  span Almacenamiento y preservación digital.
+                li 
+                  i.fas.fa-check.colori
+                  span Incrementa la visibilidad de los resultados de investigación. 
                 
     .row.mb-3
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
