@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+  .container.tarjeta.tarjeta--blanca.p-4.pt-md-5.ps-md-5.pe-md-5.pb-md-0
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
@@ -16,102 +16,97 @@
         figure.justify-center
           img.img350(src='@/assets/curso/tema3/t3-1.png', alt='Imagen 3-1')    
     
-    .bloque-texto-a.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-a.cont21bgr.p-3.p-sm-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure.justify-center
-            img.img250(src='@/assets/curso/tema3/t3-2.svg', alt='Imagen 3-2')
+            img.img450(src='@/assets/curso/tema3/t3-2.svg', alt='Imagen 3-2')
         .col-lg-8
-          .bloque-texto-a__texto.p-4
+          .bloque-texto-a__texto.p-4.position-relative
             p Al momento de aplicar estas técnicas de talento humano 5.0 se encuentran algunos retos en la selección, entre estos se hallan:
               ul.lista-ul.p-3
                 li 
                   i.fas.fa-check.colorcheck
                   span.text-black Definir: 
-                  | El perfil del cargo.
+                  | el perfil del cargo.
                 li 
                   i.fas.fa-check.colorcheck
                   span.text-black Reclutar: 
-                  | Candidatos que cumplan con el perfil. Hacer uso de las páginas, e-mail, SMS, multiposting, etc.
+                  | candidatos que cumplan con el perfil. Hacer uso de las páginas, e-mail, SMS, multiposting, etc.
                 li 
                   i.fas.fa-check.colorcheck
                   span.text-black Evaluar: 
-                  | Pruebas y entrevistas (de forma virtual y de calificación automáticas). 
+                  | pruebas y entrevistas (de forma virtual y de calificación automáticas). 
                 li 
                   i.fas.fa-check.colorcheck
                   span.text-black Seleccionar: 
-                  | Estudiar y verificar a los posibles candidatos para observar si están mintiendo o dicen la verdad sobre sus conocimientos, actitud, aptitud, experiencia, documentación, antecedentes, etc. 
+                  | estudiar y verificar a los posibles candidatos para observar si están mintiendo o dicen la verdad sobre sus conocimientos, actitud, aptitud, experiencia, documentación, antecedentes, etc. 
                 li 
                   i.fas.fa-check.colorcheck
                   span.text-black Organizar: 
-                  | Aplicar mecanismos de organización para dar trazabilidad al proceso. Aquí es importante generar informes, tener presente datos estadísticos del proceso y contar con el banco de candidatos. 
-    
+                  | aplicar mecanismos de organización para dar trazabilidad al proceso. Aquí es importante generar informes, tener presente datos estadísticos del proceso y contar con el banco de candidatos. 
+            img.puntos_2(src='@/assets/curso/puntos.svg', alt='Imagen 3-2')
     div.mb-5
       p Por otra parte, se encuentran algunas características del proceso de selección de talento humano 5.0: 
     
-    .row.mb-5.align-items-center
+    .row.mb-5
       .col-12.col-md-7.col-lg-7.mb-3
-        ul.lista-ul.p-3.cont18bgr
-          li
-            i.fas.fa-atom.colori
+        ul
+          li.color33bgr.p-3.mb-2
+            i.me-1.fas.fa-atom
             | Conectividad como canal principal (candidatos y empresa, deben contar con dispositivos).
-        ul.lista-ul.p-3.cont19bgr
-          li
-            i.fas.fa-atom.colori
+          li.color33bgr_1.p-3.mb-2
+            i.me-1.fas.fa-atom
             | Personalización (se debe realizar una personalización según los candidatos, a través de los medios de comunicación y recepción de información. “Plataformas”). 
-        ul.lista-ul.p-3.cont18bgr
-          li
-            i.fas.fa-atom.colori
+          li.color33bgr.p-3.mb-2
+            i.me-1.fas.fa-atom
             | Crear una relación con el candidato que permita el intercambio de información.
-        ul.lista-ul.p-3.cont19bgr
-          li
-            i.fas.fa-atom.colori
+          li.color33bgr_1.p-3.mb-2
+            i.me-1.fas.fa-atom
             | Tener la huella del candidato en la nube, manejar plataformas informáticas. 
-        ul.lista-ul.p-3.cont18bgr
-          li
-            i.fas.fa-atom.colori
+          li.color33bgr.p-3.mb-2
+            i.me-1.fas.fa-atom
             | <em>Big data</em>, trazabilidad de candidatos y procesos (bases de datos automatizadas).
-        ul.lista-ul.p-3.cont19bgr
-          li
-            i.fas.fa-atom.colori
+          li.color33bgr_1.p-3.mb-2
+            i.me-1.fas.fa-atom
             | <em>Marketing</em> disruptivo (¿dónde buscar candidatos?).
-        ul.lista-ul.p-3.cont18bgr
-          li
-            i.fas.fa-atom.colori
+          li.color33bgr.p-3.mb-2
+            i.me-1.fas.fa-atom
             | Contratos flexibles. 
-      .col-12.col-md-5.col-lg-5.mb-3.align-items-center
+
+      .col-12.col-md-5.col-lg-5.mb-3
         figure.justify-center
-          img.img450(src='@/assets/curso/tema3/t3-2-1.png', alt='Imagen 3-2-1')
+          img.img300(src='@/assets/curso/tema3/t3-2-1.png', alt='Imagen 3-2-1')
 
     .row.mb-5
-      .col-12.col-md-4.col-lg-4.align-items-center
+      .col-12.col-md-4.col-lg-4.align-items-center.mb-3
         figure.justify-center
           img.img350(src='@/assets/curso/tema3/t3-4.svg', alt='imagen 2-9')
-      .col-12.col-md-8.col-lg-8.cont24bgr.p-4.mb-3
+      .col-12.col-md-8.col-lg-8.cont24bgr.p-4.p-md-5.p-lg-5.mb-3
         div.cont25bgr.p-4
           p No obstante, todo proceso de selección necesita de herramientas que permitan la elección adecuada o correcta, pero, sobre todo que permita la personalización, eficiencia y practicidad para el proceso. Entre estas se encuentran:
-            ul.lista-ul.mt-3.p-3
+            ul.mt-3.p-3
               li
-                i.fas.fa-atom.colori
+                i.fas.fa-atom.colori.me-1
                 | Sistemas de seguimiento a los aplicantes.
               li
-                i.fas.fa-atom.colori
+                i.fas.fa-atom.colori.me-1
                 |Pruebas <em>online</em> optimizadas y personalizables. 
               li
-                i.fas.fa-atom.colori
+                i.fas.fa-atom.colori.me-1
                 | Video entrevistas.
               li
-                i.fas.fa-atom.colori
+                i.fas.fa-atom.colori.me-1
                 | <em>Bot´s</em> (filtro automático contable para elegir al candidato).  
               li
-                i.fas.fa-atom.colori
+                i.fas.fa-atom.colori.me-1
                 | Banco de hojas de vida.
               li
-                i.fas.fa-atom.colori
+                i.fas.fa-atom.colori.me-1
                 | Redes sociales y profesionales.       
     
     div.mb-5
-      p Para realizar un proceso de selección por medio de las nuevas técnicas de selección 5.0se debe tener presente algunos de los procesos a continuación: 
+      p Para realizar un proceso de selección por medio de las nuevas técnicas de selección 5.0 se debe tener presente algunos de los procesos a continuación: 
     
     div.mb-2.justify-center
       ol.lista-ol--cuadro
@@ -167,64 +162,64 @@
     
     separador
 
-    #t3_1.titulo-segundo.color-secundario.mb-5
+    #t3_1.titulo-segundo.color-secundario.mb-5(data-aos="fade-right")
       h2 3.1 Internet de las cosas
     
     .row.mb-3
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
-        figure.justify-center
+        figure.justify-end
           img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
         p El Internet de las cosas es el proceso que permite conectar elementos físicos cotidianos a Internet. Aquí se pueden encontrar electrodomésticos, objetos domésticos comunes como las bombillas de luz, también recursos para la atención de la salud como los dispositivos médicos, entre otros.  El Internet de las cosas hace referencia a los sistemas de dispositivos físicos que reciben y transfieren datos a través de redes inalámbricas, esto se puede lograr debido a la integración de dispositivos informáticos en todo tipo de objetos.
     
     div.mb-5
-      p Por lo general, desde el punto de vista empresarial, el Internet de las cosas capta la atención de los consumidores. De acuerdo con esto, el Internet de las cosas permite a las empresas mejorar los modelos comerciales actuales y entablar nuevas relaciones con los clientes. Esto permite que exista un volumen de datos generados por un sistema de dispositivos inteligentes que se conocen como Big data. La implementación de este sistema tiene sus pros y sus contras, en relación al manejo y análisis de los datos, pues estos pueden tornarse abrumadores. 
+      p Por lo general, desde el punto de vista empresarial, el Internet de las cosas capta la atención de los consumidores. De acuerdo con esto, el Internet de las cosas permite a las empresas mejorar los modelos comerciales actuales y entablar nuevas relaciones con los clientes. Esto permite que exista un volumen de datos generados por un sistema de dispositivos inteligentes que se conocen como <em>Big data</em>. La implementación de este sistema tiene sus pros y sus contras, en relación al manejo y análisis de los datos, pues estos pueden tornarse abrumadores. 
       p No obstante, el Internet de las cosas proporciona información al instante de un lugar a través de dispositivos cuando no se puede estar allí físicamente. Los sensores que traen los dispositivos podrán capturar los datos que se pueden ver, oír o percibir, después de esto, permitirá analizar los datos para fundamentar las acciones o decisiones posteriormente. 
     div.mb-5
       p A continuación, conocerá algunas de las posibles etapas claves en este proceso: 
   
     .row.mb-3
-      .col-12.col-md-3.col-lg-3.p-4
+      .col-12.col-md-3.col-lg-3
         div.cont26bgr.p-3
           figure.justify-end
             img.img40(src='@/assets/curso/tema3/t3-6.svg')
           
           figure.justify-center.mb-3
-            img.img160(src='@/assets/curso/tema3/t3-7.svg')
+            img.img120(src='@/assets/curso/tema3/t3-7.svg')
           h3.text-center Capturar los datos
           p.text-center A través de sensores, los dispositivos capturan datos de sus entornos (temperatura, etc.).
-      .col-12.col-md-3.col-lg-3.p-4
+      .col-12.col-md-3.col-lg-3
         div.cont27bgr.p-3
           figure.justify-end
             img.img40(src='@/assets/curso/tema3/t3-6.svg')
             
           figure.justify-center.mb-3
-            img.img160(src='@/assets/curso/tema3/t3-8.svg')
+            img.img120(src='@/assets/curso/tema3/t3-8.svg')
           h3.text-center Compartir los datos 
           p.text-center Por medio de conexiones de red disponibles, los dispositivos permiten el acceso de estos datos a través de una nube pública o privada. 
-      .col-12.col-md-3.col-lg-3.p-4
+      .col-12.col-md-3.col-lg-3
         div.cont26bgr.p-3
           figure.justify-end
             img.img40(src='@/assets/curso/tema3/t3-6.svg')
 
           figure.justify-center.mb-3
-            img.img160(src='@/assets/curso/tema3/t3-9.svg')
+            img.img120(src='@/assets/curso/tema3/t3-9.svg')
           h3.text-center Procesar los datos
-          p.text-center Por medio de un software se programa para que realice una función según la base de datos. Un ejemplo puede ser el de encender una bombilla o enviar una advertencia.
-      .col-12.col-md-3.col-lg-3.p-4
+          p.text-center Por medio de un <em>software</em> se programa para que realice una función según la base de datos. Un ejemplo puede ser el de encender una bombilla o enviar una advertencia.
+      .col-12.col-md-3.col-lg-3
         div.cont27bgr.p-3
           figure.justify-end
             img.img40(src='@/assets/curso/tema3/t3-6.svg')
               
           figure.justify-center.mb-3
-            img.img160(src='@/assets/curso/tema3/t3-10.svg')
+            img.img120(src='@/assets/curso/tema3/t3-10.svg')
           h3.text-center Actuar según los datos
           p.text-center Se analiza la base de datos de todos los dispositivos de la red, con el objetivo de brindar información estratégica para establecer acciones y decisiones de la empresa. 
 
     separador
 
-    #t3_2.titulo-segundo.color-secundario.mb-5
-      h2 3.2.	Redes sociales 
+    #t3_2.titulo-segundo.color-secundario.mb-5(data-aos="fade-right")
+      h2 3.2	Redes sociales 
     
     div.mb-5
       p Son plataformas digitales conformadas por individuos con diferentes intereses, actividades o relaciones en común. Estas permiten la comunicación e intercambio de información entre personas, es importante mencionar que los individuos no necesariamente se tienen que conocer antes de entrar en una red social, dejando entre visto, que al momento de interactuar o conocerse se convierte en uno de los mayores beneficios de estas comunidades virtuales. Es importante conocer los objetivos de las redes sociales y su por qué: 
@@ -251,26 +246,26 @@
       .col-12.col-md-4.col-lg-4.align-items-center.mb-3
         figure.justify-center
           img.img300(src='@/assets/curso/tema3/t3-12.svg')
-      .col-12.col-md-8.col-lg-8.cont28bgr.p-4.mb-3
+      .col-12.col-md-8.col-lg-8.cont28bgr.p-4.p-md-5.p-lg-5.mb-3.position-relative
         div.cont25bgr.p-4
           p Por otra parte, se encuentran las características de las redes sociales:
-            ul.lista-ul.mt-3.p-3
+            ul.mt-3.p-3
               li
-                i.fas.fa-check.colorcheck
+                i.fas.fa-check.colorcheck.me-1
                 | Están conformadas por una comunidad virtual.
               li
-                i.fas.fa-check.colorcheck
+                i.fas.fa-check.colorcheck.me-1
                 | Pueden ser utilizadas desde computadoras, <em>tablet</em> o dispositivos móviles.
               li
-                i.fas.fa-check.colorcheck
+                i.fas.fa-check.colorcheck.me-1
                 | Son de acceso gratuito y algunas ofrecen otras funcionalidades a cambio de un pago mensual o anual. 
               li
-                i.fas.fa-check.colorcheck
+                i.fas.fa-check.colorcheck.me-1
                 | Brindan información en tiempo real.
               li
-                i.fas.fa-check.colorcheck
+                i.fas.fa-check.colorcheck.me-1
                 | Permiten a cada usuario crear un perfil dentro de la red para poder interactuar con los demás. 
-    
+        img.puntos_3(src='@/assets/curso/tema3/t3-6.svg')
     div.mb-5
       h3 Ventajas de las redes sociales
       p Las redes sociales brindan una serie de ventajas o beneficios, y esto les ha permitido ser protagonistas dentro de la Web. Entre estas ventajas se encuentran: 
@@ -338,7 +333,7 @@
         LineaTiempoD.color-acento-contenido
           p.text-small(numero="1" titulo="Red social de relaciones") Aquí está la red social Facebook, donde su objetivo es conectar personas. Entre otras redes de este tipo se hallan Instagram, LinkedIn, Twitter, etc.
           
-          p.text-small(numero="2" titulo="Red social de entretenimiento") LSon aquellas en las que el objetivo principal no es relacionarse con las personas, sino consumir contenido. Aquí está YouTube, su función gira en torno a la distribución de videos, con el objetivo de publicar y ver videos. Otra App de este tipo es Pinterest, en el que las personas publican y consumen imágenes. 
+          p.text-small(numero="2" titulo="Red social de entretenimiento") Son aquellas en las que el objetivo principal no es relacionarse con las personas, sino consumir contenido. Aquí está YouTube, su función gira en torno a la distribución de videos, con el objetivo de publicar y ver videos. Otra App de este tipo es Pinterest, en la que las personas publican y consumen imágenes. 
           
           p.text-small(numero="3" titulo="Red social profesional") Aquí los usuarios tienen como objetivo crear relaciones profesionales con otros usuarios, presentar su currículum y habilidades, además de conseguir empleos, etc. La App más conocida es LinkedIn. Por otra parte, hay redes que no son exclusivamente profesionales, pero que también se han utilizado para este fin, como Facebook, Instagram, YouTube, Twitter y Pinterest.
           
@@ -357,7 +352,7 @@
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
           h3 Facebook
-          p Esta es la red social más versátil, se caracteriza por ser un lugar para generar negocios, conocer gente, relacionarse con amigos, informarse, divertirse, debatir, entre otras cosas. Para las empresas se convierte en una  estrategia de marketing digital,  en busca de generar negocios o atraer clientes.
+          p Esta es la red social más versátil, se caracteriza por ser un lugar para generar negocios, conocer gente, relacionarse con amigos, informarse, divertirse, debatir, entre otras cosas. Para las empresas se convierte en una  estrategia de <em>marketing</em> digital,  en busca de generar negocios o atraer clientes.
      
         .col-12.p-4.col-md-6
           figure.justify-center
@@ -375,7 +370,7 @@
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
           h3 Twitter
-          p Se utiliza para que los usuarios comentan y debaten lo que están viendo en la televisión, noticias, reality shows, juegos de fútbol y otros programas. Sus participaciones o comentarios están sujetas a 280 caracteres. 
+          p Se utiliza para que los usuarios comentan y debaten lo que están viendo en la televisión, noticias, <em>reality shows</em>, juegos de fútbol y otros programas. Sus participaciones o comentarios están sujetas a 280 caracteres. 
      
         .col-12.p-4.col-md-6
           figure.justify-center
@@ -393,7 +388,7 @@
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
           h3 Pinterest
-          p Es una red social de fotos que trae el concepto de mural, donde se puede crear carpetas y subir imágenes y referenciar si es el caso con links hacia URL externas. Aquí se encuentran temas de moda, manualidades, gastronomía, arquitectura, entre otros. 
+          p Es una red social de fotos que trae el concepto de mural, donde se puede crear carpetas y subir imágenes y referenciar si es el caso con <em>links</em> hacia URL externas. Aquí se encuentran temas de moda, manualidades, gastronomía, arquitectura, entre otros. 
      
         .col-12.p-4.col-md-6
           figure.justify-center
@@ -411,7 +406,7 @@
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
           h3 Instagram
-          p Es una red social de compartir fotos y vídeos entre usuarios, con la posibilidad de aplicación de filtros. También permite publicar stories, boomerangs y otros formatos de publicación.
+          p Es una red social de compartir fotos y vídeos entre usuarios, con la posibilidad de aplicación de filtros. También permite publicar <em>stories</em>, <em>boomerangs</em> y otros formatos de publicación.
      
         .col-12.p-4.col-md-6
           figure.justify-center
@@ -419,8 +414,8 @@
     
     separador
 
-    #t3_3.titulo-segundo.color-secundario.mb-5
-      h2 3.3.	Sistemas de información
+    #t3_3.titulo-segundo.color-secundario.mb-5(data-aos="fade-right")
+      h2 3.3	Sistemas de información
 
     div.mb-5
       p Cuando se habla de un sistema de información se hace referencia a una serie de datos vinculados entre sí para conseguir un objetivo común. Su principal objetivo es la gestión y administración de los datos e información que lo componen. Su importancia recae en que se pueda recuperar siempre esos datos, su fácil acceso y su seguridad. 
@@ -431,7 +426,7 @@
         .row
           .col-12.col-md-7.col-lg-7
             h4 La entrada de la información
-            p Se ingresa la información de manera automática o manual, esto dependerá de la técnica que se utilice para agregar los datos. Las de tipo manual son introducidas por el usuario, por otra parte, las automáticas se gestionan a través de información recibida o proveniente de otro tipo de áreas y módulos. Algunas formas habituales de registro de datos encontramos: códigos de barra, cajas registradoras, sistemas de voz, un escáner, entre otros.
+            p Se ingresa la información de manera automática o manual, esto dependerá de la técnica que se utilice para agregar los datos. Las de tipo manual son introducidas por el usuario, por otra parte, las automáticas se gestionan a través de información recibida o proveniente de otro tipo de áreas y módulos. Algunas formas habituales de registro de datos encontramos: códigos de barra, cajas registradoras, sistemas de voz, un <em>escáner</em>, entre otros.
       
           .col-12.col-md-5.col-lg-5
             figure.justify-center
@@ -467,14 +462,16 @@
             figure.justify-center
               img.img250(src='@/assets/curso/tema3/t3-18.svg', alt='Imagen 3-18')
 
-    div.mb-5
+    div
       p A continuación, se mencionan algunos de los sistemas de información más destacados: 
+  
+  .container.cont32bgr.p-4.p-md-5
     
     PasosA.color-acento-botones.mb-5(tipo="n")
       .row
         .col-md-6.mb-4.mb-md-0.mt-5
-          h3 Sistemas de información en marketing y comunicación.
-          p Su principal objetivo es la venta y promoción de artículos. 
+          h3 Sistemas de información en <em>marketing</em> y comunicación.
+          p Su principal objetivo es la venta y promoción de artículos 
         .col-md-6
           figure.justify-center
             img.img160(src='@/assets/curso/tema3/t3-19.svg', alt='img 3-19')
@@ -484,12 +481,12 @@
           figure.justify-center
             img.img160(src='@/assets/curso/tema3/t3-20.svg', alt='img 3-20')
         .col-md-6.mb-4.mb-md-0.mt-5
-          h3 El sistema de información administrativa (MIS). 
+          h3 El sistema de información administrativa (MIS) 
           p Proporcionar información más destacada y relevante que necesita la empresa para la toma de decisiones, y realizar una valoración de datos para ejecutar posteriormente una planificación.
       
       .row
         .col-md-6.mb-4.mb-md-0.mt-5
-          h3 El sistema de procesamiento de transacciones (TPS). 
+          h3 El sistema de procesamiento de transacciones (TPS) 
           p Aquí se incluyen los datos referidos a las actividades comerciales de la empresa. 
         .col-md-6
           figure.justify-center
@@ -500,12 +497,12 @@
           figure.justify-center
             img.img160(src='@/assets/curso/tema3/t3-22.svg', alt='img 3-20')
         .col-md-6.mb-4.mb-md-0.mt-5
-          h3 El sistema de apoyo a ejecutivos (EIS).  
+          h3 El sistema de apoyo a ejecutivos (EIS)  
           p Aportar información y datos relevantes para la toma de decisiones estratégicas en específico.
       
       .row
         .col-md-6.mb-4.mb-md-0.mt-5
-          h3 El sistema para la toma de decisiones en grupo (GDSS).  
+          h3 El sistema para la toma de decisiones en grupo (GDSS) 
           p Su objetivo es compartir la información entre los componentes del grupo para que se faciliten las tareas de trabajo y la cooperación.
         .col-md-6
           figure.justify-center
@@ -516,7 +513,7 @@
           figure.justify-center
             img.img160(src='@/assets/curso/tema3/t3-24.svg', alt='img 3-20')
         .col-md-6.mb-4.mb-md-0.mt-5
-          h3 El sistema de información para expertos (EDSS).   
+          h3 El sistema de información para expertos (EDSS)   
           p Busca compartir datos de interés entre determinados segmentos y especialistas para valorar la información consignada.
     
     div.mb-5
@@ -559,7 +556,7 @@
       p Algunos ejemplos de sistemas de información se pueden evidenciar a continuación: 
     
     .row.mb-3.justify-center
-      .col-12.col-md-3.col-lg-3.mb-3
+      .col-12.col-md-4.col-lg-4.mb-3
         div.cont13bgr.p-3 
           figure.justify-end
             img.img40(src='@/assets/curso/tema3/t3-6.svg')
@@ -568,7 +565,7 @@
           div.text-center.mt-5
             h3 Sistemas de control de calidad
             p Aquí se hace una retroalimentación al cliente y se evalúan los resultados de forma estadística.
-      .col-12.col-md-3.col-lg-3.mb-3
+      .col-12.col-md-4.col-lg-4.mb-3
         div.cont14bgr.p-3
           figure.justify-end
             img.img40(src='@/assets/curso/tema3/t3-6.svg')
@@ -577,7 +574,7 @@
           div.text-center.mt-5
             h3 Bases de datos de una biblioteca
             p Contienen un gran volumen de documentos (libros, revistas, tesis, etc.) Esta base permitirá ubicar y recuperar cada uno de estos documentos de la forma más rápida y precisa.
-      .col-12.col-md-3.col-lg-3.mb-3
+      .col-12.col-md-4.col-lg-4.mb-3
         div.cont13bgr.p-3
           figure.justify-end
             img.img40(src='@/assets/curso/tema3/t3-6.svg')
@@ -588,24 +585,24 @@
             p Permite el ingreso de información y a su vez se puede organizar de manera cuantificable para obtener resultados que permitan la toma de decisiones de tipo financiero, estadístico, etc.  
     
     separador
-
-    #t3_4.titulo-segundo.color-secundario.mb-5
-      h2 3.4.	Repositorios
+  .container.cont34bgr.p-4.p-md-5
+    #t3_4.titulo-segundo.color-secundario.mb-5(data-aos="fade-right")
+      h2 3.4	Repositorios
     
     .row.mb-3
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
-        figure.justify-center
+        figure.justify-end
           img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
-        p Un repositorio es un espacio especializado en almacenar, organizar, mantener y difundir información digital, habitualmente contenida en archivos informáticos, que pueden tener trabajos científicos, conjuntos de datos o software.
-        p En otras palabras, se puede decir que es un sistema en la red formado por hardware, software, data y procedimientos que: 
+        p Un repositorio es un espacio especializado en almacenar, organizar, mantener y difundir información digital, habitualmente contenida en archivos informáticos, que pueden tener trabajos científicos, conjuntos de datos o <em>software</em>.
+        p En otras palabras, se puede decir que es un sistema en la red formado por <em>hardware, software, data</em> y procedimientos que: 
     .bloque-texto-a.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure.justify-center
             img.img350(src='@/assets/curso/tema3/t3-33.svg', alt='Imagen 3-33')
         .col-lg-8
-          .bloque-texto-a__texto.p-4
+          .bloque-texto-a__texto.p-4.p-md-5.p-lg-5
             p.mb-3 En otras palabras, se puede decir que es un sistema en la red formado por hardware, software, data y procedimientos que:
               ul.lista-ul.p-3
                 li 
@@ -633,7 +630,7 @@
       .col-12.col-md-4.col-lg-4.align-items-center.mb-2
         figure.justify-center
           img.img350(src='@/assets/curso/tema3/t3-34.svg', alt='Imagen 3-34')
-      .col-12.col-md-8.col-lg-8.cont24bgr.p-4.mb-3
+      .col-12.col-md-8.col-lg-8.cont24bgr.p-4.p-md-5.p-lg-5.mb-3
         div.cont25bgr.p-4
           p.mb-3 Estos repositorios se caracterizan por tener contenidos de:
             ul.lista-ul.p-3
@@ -666,26 +663,26 @@
         .col-lg-4.mb-4.mb-lg-0
           figure.justify-center
             img.img250(src='@/assets/curso/tema3/t3-36.svg', alt='Imagen 3-33')
-        .col-lg-8
+        .col-lg-8.p-0
           .bloque-texto-a__texto.p-4
             p.mb-3 Un 
               span.text-black repositorio digital institucional 
               | es aquel creado, mantenido y autorizado por una institución o grupo de ellas, que recoge contenidos digitales generados por la actividad de los miembros de la institución. Entre sus funciones están: 
-              ul.lista-ul.p-3
+              ul.p-3
                 li 
-                  i.fas.fa-check.colori
+                  i.fas.fa-check.colori.me-1
                   span Herramienta común de gestión de los contenidos digitales de la institución.
                 li 
-                  i.fas.fa-check.colori
+                  i.fas.fa-check.colori.me-1
                   span Herramienta para apoyar la investigación y el aprendizaje.
                 li 
-                  i.fas.fa-check.colori
-                  span Vehículo operativo del Open Access.
+                  i.fas.fa-check.colori.me-1
+                  span Vehículo operativo del <em>Open Access</em>.
                 li 
-                  i.fas.fa-check.colori
+                  i.fas.fa-check.colori.me-1
                   span Almacenamiento y preservación digital.
                 li 
-                  i.fas.fa-check.colori
+                  i.fas.fa-check.colori.me-1
                   span Incrementa la visibilidad de los resultados de investigación. 
                 
     .row.mb-3
@@ -694,7 +691,8 @@
           img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
       .col-12.col-md-6.col-lg-6
         p Un 
-          span.text-black repositorio digital temático             | reúne sus contenidos en función de su área temática, no por su origen institucional, en torno a una disciplina científica o disciplinas relacionadas.
+          span.text-black repositorio digital temático             
+          | reúne sus contenidos en función de su área temática, no por su origen institucional, en torno a una disciplina científica o disciplinas relacionadas.
         P Por otra parte, se encuentran los 
           span.text-black repositorios digitales en las bibliotecas,
           | algunas centran gran parte de su interés o preocupación en la digitalización de documentos: prensa, grabados, tesis, artículos, ponencias, revistas, trabajos de aprendizaje, diapositivas, etc.
@@ -704,12 +702,12 @@
         
     separador
 
-    #t3_5.titulo-segundo.color-secundario.mb-3
-      h2 3.5.	Plataformas
+    #t3_5.titulo-segundo.color-secundario.mb-3(data-aos="fade-right")
+      h2 3.5	Plataformas
     
     .row.mb-5
       .col-12.col-md-4.col-lg-4.mt-4
-        p Las plataformas digitales son recursos online que posibilitan la realización de diversas tareas en un mismo lugar a través de Internet. Su principal objetivo es facilitar la ejecución de tareas, a través de programas o aplicación en un mismo lugar para satisfacer distintas necesidades.
+        p Las plataformas digitales son recursos <em>online</em> que posibilitan la realización de diversas tareas en un mismo lugar a través de Internet. Su principal objetivo es facilitar la ejecución de tareas, a través de programas o aplicación en un mismo lugar para satisfacer distintas necesidades.
       .col-12.col-md-4.col-lg-4
         figure.justify-center
           img.img200(src='@/assets/curso/tema3/t3-38.svg', alt='Imagen 3-38')
@@ -721,7 +719,7 @@
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
           h3 Plataformas educativas 
-          p Se enfocan en la educación a distancia y buscan simular las mismas experiencias de aprendizaje que encontramos en un salón de clase. Sirven para complementar de forma asincrónica el proceso de educación. Algunas plataformas educativas conocidas son: Blackboard, e-College y Moodle.
+          p Se enfocan en la educación a distancia y buscan simular las mismas experiencias de aprendizaje que encontramos en un salón de clase. Sirven para complementar de forma asincrónica el proceso de educación. Algunas plataformas educativas conocidas son: <em>Blackboard, e-College y Moodle.</em>
      
         .col-12.p-4.col-md-6
           figure.justify-center
@@ -739,7 +737,7 @@
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
           h3 Plataformas de comercio electrónico 
-          p Permiten la compra de diversos productos y servicios sin salir de casa, sin que existan fronteras físicas. Cada vez estas plataformas crecen en todos los sectores. Algunas plataformas conocidas son: WooCommerce, Tiendanube, Magento y Shopify.
+          p Permiten la compra de diversos productos y servicios sin salir de casa, sin que existan fronteras físicas. Cada vez estas plataformas crecen en todos los sectores. Algunas plataformas conocidas son: <em>WooCommerce, Tiendanube, Magento y Shopify.</em>
      
         .col-12.p-4.col-md-6
           figure.justify-center
@@ -748,7 +746,7 @@
         .col-md-1
         .col-12.p-4.col-md-5.mb-4.mb-md-0.mt-5
           h3 Plataformas especializadas 
-          p Son creadas para satisfacer las necesidades de un grupo de usuarios. Aquí encontramos plataformas creadas para ayudar en las tareas relacionadas con el marketing digital.
+          p Son creadas para satisfacer las necesidades de un grupo de usuarios. Aquí encontramos plataformas creadas para ayudar en las tareas relacionadas con el <em>marketing</em> digital.
     
         .col-12.p-4.col-md-6
           figure.justify-center
@@ -762,7 +760,7 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema3/t3-43.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta2
             .p-4
               h2 Hootsuite
               p Se puede administrar las publicaciones de todas tus redes sociales desde un mismo panel de control.
@@ -770,7 +768,7 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema3/t3-44.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta2
             .p-4
               h2 Trello
               p Permite organizar y administrar todas sus tareas de manera fácil e intuitiva.
@@ -779,7 +777,7 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema3/t3-45.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta2
             .p-4
               h2 Mailchimp
               p Permite administrar todas sus campañas de e-mail marketing.
@@ -787,7 +785,7 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema3/t3-46.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta2
             .p-4
               h2 Buzzsumo
               p Realiza un análisis de su contenido en Internet.
@@ -796,7 +794,7 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema3/t3-47.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta2
             .p-4
               h2 WordPress
               p Es el gestor de contenidos más utilizado del mundo.
@@ -804,7 +802,7 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema3/t3-48.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta2
             .p-4
               h2 Canva
               p Permite crear o editar imágenes para su sitio web o para cualquier red social.
@@ -813,7 +811,7 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema3/t3-49.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta2
             .p-4
               h2 Ion
               p Es un software que permite crear experiencias digitales interactivas de manera escalable y eficaz, produciendo páginas web que generan más engagement (nivel de compromiso de los usuarios). 
@@ -827,11 +825,11 @@
       .col-md-6.mb-5.mb-md-0
         
         LineaTiempoD.color-acento-contenido
-          p.text-small(numero="1" titulo="Dropbox") Cuenta con un plan que se llama Basic, con 2GB de espacio, que permite el almacenamiento, sincronización, acceso de fotos, videos, presentaciones y otros documentos en distintos dispositivos, carpetas y vínculos compartidos.
+          p.text-small(numero="1" titulo="Dropbox") Cuenta con un plan que se llama <em>Basic</em>, con 2GB de espacio, que permite el almacenamiento, sincronización, acceso de fotos, videos, presentaciones y otros documentos en distintos dispositivos, carpetas y vínculos compartidos.
           
-          p.text-small(numero="2" titulo="Google Drive") Con la cuenta de Google los primeros 15 GB de espacio de almacenamiento son gratuitos. Se puede acceder a los archivos de Drive desde cualquier smartphone, tableta o computador.
+          p.text-small(numero="2" titulo="Google Drive") Con la cuenta de Google los primeros 15 GB de espacio de almacenamiento son gratuitos. Se puede acceder a los archivos de <em>Drive </em>desde cualquier <em>smartphone</em>, tableta o computador.
           
-          p.text-small(numero="3" titulo="Microsoft OneDrive") OneDrive Básico de 5 GB. Entre sus principales opciones se encuentra que permite editar y anotar en Office Docs y PDF, incluso en el teléfono móvil, funciona en PC y Mac.
+          p.text-small(numero="3" titulo="Microsoft OneDrive") <em>OneDrive Básico</em> de 5 GB. Entre sus principales opciones se encuentra que permite editar y anotar en Office <em>Docs</em> y PDF, incluso en el teléfono móvil, funciona en PC y Mac.
           
       .col-md-6.mb-5.mb-md-0
         figure.justify-center
@@ -840,8 +838,8 @@
     div.mb-5
       p Por otra parte, verá los principales beneficios de estos sistemas de almacenamiento, estos son: 
     
-    TabsA.color-acento-botones.mb-5
-      .tarjeta.color-acento-botones--borde.p-4(titulo=" Facilidad de acceso")
+    TabsA.color-secundario.mb-5
+      .tarjeta.color-acento-botones--borde2.p-4(titulo=" Facilidad de acceso")
         .row
           .col-12.col-md-7.col-lg-7.mt-5
             h4 Facilidad de acceso
@@ -851,7 +849,7 @@
             figure.justify-center
               img.img250(src='@/assets/curso/tema3/t3-51.svg', alt='Imagen 3-51')
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Fáciles de usar")
+      .tarjeta.color-acento-botones--borde2.p-4(titulo="Fáciles de usar")
         .row
           .col-12.col-md-7.col-lg-7.mt-5
             h4 Fáciles de usar
@@ -861,17 +859,17 @@
             figure.justify-center
               img.img250(src='@/assets/curso/tema3/t3-52.svg', alt='Imagen 3-52')
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="No existe preocupación")
+      .tarjeta.color-acento-botones--borde2.p-4(titulo="No existe preocupación")
         .row
           .col-12.col-md-7.col-lg-7.mt-5
             h4 No existe preocupación
-            p Las empresas que ofrecen estos servicios en la nube realizan el mantenimiento, las actualizaciones de software e invierten en infraestructura, de forma transparente para el usuario. 
+            p Las empresas que ofrecen estos servicios en la nube realizan el mantenimiento, las actualizaciones de <em>software</em> e invierten en infraestructura, de forma transparente para el usuario. 
       
           .col-12.col-md-5.col-lg-5
             figure.justify-center
               img.img250(src='@/assets/curso/tema3/t3-53.svg', alt='Imagen 3-53')
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Menor riesgo de desaparecer")
+      .tarjeta.color-acento-botones--borde2.p-4(titulo="Menor riesgo de desaparecer")
         .row
           .col-12.col-md-7.col-lg-7.mt-5
             h4 Menor riesgo de desaparecer
@@ -881,7 +879,7 @@
             figure.justify-center
               img.img250(src='@/assets/curso/tema3/t3-54.svg', alt='Imagen 3-54')
       
-      .tarjeta.color-acento-botones--borde.p-4(titulo="Menor riesgo de desaparecer")
+      .tarjeta.color-acento-botones--borde2.p-4(titulo="Permiten un ahorro económico")
         .row
           .col-12.col-md-7.col-lg-7.mt-5
             h4 Permiten un ahorro económico

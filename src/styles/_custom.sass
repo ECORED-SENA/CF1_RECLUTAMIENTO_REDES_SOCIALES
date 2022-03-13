@@ -12,6 +12,8 @@
   max-width: 40px !important
 .img90
   max-width: 90px !important
+.img120
+  max-width: 120px !important
 .img160
   max-width: 160px !important
 .img200
@@ -131,11 +133,11 @@
 .cont7bgr
   background-color: #F9C852
 .cont8bgr
-  background-image: url("../assets/curso/tema1/t1-38.svg")
+  background-color: #8BDAE6 
   max-width: 100%
 .cont9bgr
   background-color: #F7E7CF
-  width: 50% !important
+  width: 100% !important
   height: 100% !important
   display: flex
   align-items: center
@@ -147,14 +149,14 @@
   background-color: #C8EEF3
 .cont12bgr
   background: rgb(248,228,183);
-  background: linear-gradient(0deg, rgba(248,228,183,1) 0%, rgba(237,202,126,1) 100%);
+  background: linear-gradient(180deg, rgba(248,228,183,1) 0%, rgba(237,202,126,0.19) 100%);
 .cont13bgr
   background-color: #F7E7CF
-  border-radius: 10px
+  border-radius: 30px
   height: 100%
 .cont14bgr
   background-color: #8BDAE6
-  border-radius: 10px
+  border-radius: 30px
   height: 100%
 .cont15bgr
   background: rgb(219,218,217);
@@ -164,9 +166,14 @@
 .cont17bgr
   background-color: #EEF1F5
 .cont18bgr
-  background-color: #8BDAE6
+  background-color: #F7E7CF
+  height: 100%
 .cont19bgr
   background-color: #F7E7CF
+  &_1
+    background-color: #BBD1D4
+  &_2
+    background-color: #E1DEDA
 .cont20bgr
   background-color: #15616D
   color: $white
@@ -174,9 +181,20 @@
   padding: 0.5rem
 .cont21bgr
   background-color: #F7E7CF
+  border-radius: 10px
+  &_text
+    position: absolute
+    top: -130px
+  &_padding
+    padding-bottom: 200px !important
 .cont22bgr
   background: rgb(237,248,250);
   background: linear-gradient(180deg, rgba(237,248,250,1) 46%, rgba(255,255,255,1) 100%);
+  padding-top: 200px !important
+  max-width: 1320px
+  margin-right: auto
+  margin-left: auto
+  border-radius: 10px
 .cont23bgr
   background: rgb(254,246,226);
   background: linear-gradient(180deg, rgba(254,246,226,1) 0%, rgba(255,255,255,1) 100%);
@@ -196,18 +214,112 @@
   background-color: #FF7D00 
 .cont29bgr
   height: 100%
+.cont30bgr
+  height: 90%
+.list--cs
+  display: flex 
+  flex-direction: column
+.cont31bgr
+  background-color: #E6F1FF
+.cont32bgr
+  background: rgb(243,251,252);
+  background: linear-gradient(180deg, rgba(243,251,252,1) 0%, rgba(255,255,255,1) 100%);
+.cont33bgr
+  width: 100%
+.cont34bgr
+  background: rgb(237,243,244);
+  background: linear-gradient(180deg, rgba(237,243,244,1) 0%, rgba(255,255,255,1) 100%);
+.cont35bgr
+  background-color: 
+
+
+.tarjeta2
+  background-color: #D8ECFF 
+.tarjeta--azul-1
+  background: rgb(142,175,220);
+  background: linear-gradient(45deg, rgba(142,175,220,0.2049194677871149) 0%, rgba(112,138,173,0.20211834733893552) 75%, rgba(71,88,110,0.2049194677871149) 100%);
+.tarjeta--azul-2
+  background-color: #E8E8E8 !important  
+.color32bgr
+  background-color: #C8EEF3
+.color32bgr:before
+  background-color: #FF7D00
+.color33bgr
+  background-color: #8BDAE6
+  &_1
+    background-color: #F7E7CF
+   
+
   
-  
+//posicion absoluta//
+.puntos
+  position: absolute
+  top: -5%
+  right: -2%
+  max-width: 30px
+  &_1
+    position: absolute
+    bottom: -5%
+    left: -2%
+    max-width: 30px 
+  &_2
+    position: absolute
+    top: -2%
+    left: -2%
+    max-width: 30px 
+  &_3
+    position: absolute
+    top: 20%
+    right: 10%
+    max-width: 30px
+
+.circulo
+  position: absolute
+  bottom: 5%
+  right: 5%
+  max-width: 30px
+  &_1
+    position: absolute
+    top: 5%
+    left: 5%
+    max-width: 30px
+  &_2
+    position: absolute
+    bottom: 5%
+    left: 5%
+    max-width: 30px
+  &_3
+    position: absolute
+    top: 2%
+    right: 2%
+    max-width: 30px
+  &_4
+    position: absolute
+    bottom: 2%
+    left: 2%
+    max-width: 30px
+  &_5
+    position: absolute
+    top: 15%
+    right: 2%
+    max-width: 30px
+  &_6
+    position: absolute
+    bottom: 5%
+    left: 5%
+    max-width: 30px
+  &_7
+    position: absolute
+    top: 15%
+    right: 2%
+    max-width: 30px
+
 
 //- clases sobre escritas- //
 .tarjeta.color-primario *
   color: $black !important
 .tarjeta-flip.color-primario .tarjeta-flip__contenido
-  background-color: #FFD9B4
-
-.tarjeta--azul
-  background: rgb(142,175,220);
-  background: linear-gradient(45deg, rgba(142,175,220,0.2049194677871149) 0%, rgba(112,138,173,0.20211834733893552) 75%, rgba(71,88,110,0.2049194677871149) 100%);
+  background-color: #FFE3C9
 
 .bloque-texto-g.color-secundario
   background-color: #15616D !important
@@ -215,11 +327,17 @@
 .bloque-texto-a.color-secundario
   background-color: #B8E0E6 !important
 
+.bloque-texto-a:before
+  background-color: #15616D !important
+
 .bloque-texto-a.color-secundario:before
   background-color: #0AB1CB !important
 
 .tarjeta.color-acento-botones--borde
   background-color: #EBF6FF !important
+  border: 0px !important
+.tarjeta.color-acento-botones--borde2
+  background-color: #FADA8D !important
   border: 0px !important
 .tarjeta.color-primario
   background-color: #FFFFFF!important
@@ -232,7 +350,13 @@
 .tarjeta-avatar .tarjeta
   background-color: #E6EEEF
   padding-top: 160px !important;
-.lista-ol--cuadro__vineta
-  border-radius: 999px !important
 .text-end
   text-align: left !important
+.cajon.color-primario
+  background-color: #D4ECF0 !important
+.cajon.color-primario:before
+  background-color: #079BB2 !important
+.pasos-a__circle
+  width: 80px
+  height: 80px
+  max-width: 80px

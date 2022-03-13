@@ -11,12 +11,12 @@
     .row
       .col-12.col-md-4.col-lg-4
         p Para hablar sobre la contextualización de una empresa se debe dirigir a los estándares ISO, que permitirán estudiar el contexto de la empresa como proceso que determina los factores internos y externos que impactan e influyen en los propósitos de esta, en sus objetivos y su sostenibilidad. A continuación, se estudiará un poco más el contexto de la empresa.
-      .col-12.mb-2.col-md-4.col-lg-4.mb-3
+      .col-12.mb-2.col-md-4.col-lg-4.mb-3.align-items-center
         figure
           img.conten1-3(src='@/assets/curso/tema1/t1-1.png', alt='imagen 1')
       .col-12.col-md-4.col-lg-4
         h3.text-black Contexto de la empresa
-        p El mundo hoy en día se encuentra en constantes cambios, ya no es suficiente contar con sistemas de gestión, pensar en procesos integrados o pensar en la satisfacción del cliente para garantizar el éxito de las empresas; es necesario observar y conocer lo que está ocurriendo al interior o exterior de nuestra empresa y poder identificar los impactos que se pueden generar ante un riesgo u oportunidades, y así gestionar y adaptar los procesos para el desarrollo de los objetivos de la empresa. 
+        p.colortext1 El mundo hoy en día se encuentra en constantes cambios, ya no es suficiente contar con sistemas de gestión, pensar en procesos integrados o pensar en la satisfacción del cliente para garantizar el éxito de las empresas; es necesario observar y conocer lo que está ocurriendo al interior o exterior de nuestra empresa y poder identificar los impactos que se pueden generar ante un riesgo u oportunidades, y así gestionar y adaptar los procesos para el desarrollo de los objetivos de la empresa. 
         
     div
       .cajon.color-primario.p-4.mb-4
@@ -29,7 +29,7 @@
     TabsC.color-primario.mb-5
       .py-3.py-md-4(titulo="Propósito")
         .row
-          .col-12.col-md-7.col-lg-7.mb-4.mb-md-0.align-items-center
+          .col-12.col-md-7.col-lg-7.mb-4.mb-md-0.p-5
             h4 Propósito
             p Definir lo que see quiere lograr y el motivo del por qué hacerlo, es uno de los puntos que hay que tener en cuenta a la hora de impactar a un público, saber qué se aportará a los clientes. 
        
@@ -43,13 +43,13 @@
             figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-3.png', alt='Texto que describa la imagen')
               
-          .col-12.col-md-7.col-lg-7.align-items-center
+          .col-12.col-md-7.col-lg-7.p-5
             h4 La misión
             p Se debe saber  claramente su propósito final y saber cómo cumplir ese propósito.
         
       .py-3.py-md-4(titulo="El liderazgo")
         .row
-          .col-12.col-md-7.col-lg-7.align-items-center
+          .col-12.col-md-7.col-lg-7.p-5
             h4 El liderazgo   
             p Se debe contar con grandes líderes que inspiren y dirijan.              
         
@@ -62,15 +62,15 @@
           .col-12.col-md-5.col-lg-5.mb-4
             figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-5.png', alt='Texto que describa la imagen')
-          .col-12.col-md-7.col-lg-7.align-items-center
+          .col-12.col-md-7.col-lg-7.p-5
             h4 La comunicación
             p Debe existir prácticas de comunicación sólidas, donde los equipos y los líderes se comuniquen de forma asertiva, libre y frecuente, con el objetivo de mejorar en los resultados.
       
       .py-3.py-md-4(titulo="Estructura organizativa")
         .row
-          .col-12.col-md-7.col-lg-7.align-items-center
+          .col-12.col-md-7.col-lg-7.p-5
             h4 Estructura organizativa
-            p Aquí es importante las  relaciones jerárquicas que se presentan en la empresa, su desempeño se determina según el número de intermediarios que existan de arriba a abajo. Entre menos intermediarios es mejor. 
+            p Aquí son importante las  relaciones jerárquicas que se presentan en la empresa, su desempeño se determina según el número de intermediarios que existan de arriba a abajo. Entre menos intermediarios es mejor. 
         
           .col-12.col-md-5.col-lg-5
             figure.justify-center
@@ -81,13 +81,13 @@
           .col-12.col-md-5.col-lg-5.mb-4
             figure.justify-center
               img.img350(src='@/assets/curso/tema1/t1-7.png', alt='Texto que describa la imagen')
-          .col-12.col-md-7.col-lg-7.align-items-center
+          .col-12.col-md-7.col-lg-7.p-5
             h4 Las personas
             p El personal y talento humano es importante para la gestión y cambios que permitan un enfoque positivo en la empresa. 
       
       .py-3.py-md-4(titulo="El aprendizaje")
         .row
-          .col-12.col-md-7.col-lg-7.align-items-center
+          .col-12.col-md-7.col-lg-7.p-5
             h4 El aprendizaje
             p Aquí es importante fomentar la innovación e incorporar en la experiencia de cada empleado la oportunidad de aprender y explorar. 
         
@@ -126,8 +126,8 @@
         .row
           .col-12.col-md-12.col-lg-12.mt-4.mb-4
             figure.justify-center
-              img.img250(src='@/assets/curso/tema1/t1-12.svg')
-        p.text-center Los clientes se convierten en el eje central de las empresas, su comportamiento, la toma de decisiones, sus gustos y preferencias, los patrones de compra y las tendencias son promotores de los cambios en las empresas. 
+              img.img350(src='@/assets/curso/tema1/t1-12.svg')
+        p.mt-4.text-center Los clientes se convierten en el eje central de las empresas, su comportamiento, la toma de decisiones, sus gustos y preferencias, los patrones de compra y las tendencias son promotores de los cambios en las empresas. 
  
       .col-12.col-md-4.col-lg-4.p-4.cont1bgr
         .row
@@ -162,8 +162,8 @@
         .row
           .col-12.col-md-12.col-lg-12.mt-4.mb-4
             figure.justify-center
-              img.img250(src='@/assets/curso/tema1/t1-15.svg')
-        p.text-center La legislación vigente es de suma importancia, ya que puede afectar directamente la forma en la que las empresas pueden trabajar. 
+              img.img350(src='@/assets/curso/tema1/t1-15.svg')
+        p.mt-2.text-center La legislación vigente es de suma importancia, ya que puede afectar directamente la forma en la que las empresas pueden trabajar. 
 
       .col-12.col-md-4.col-lg-4.p-4.cont2bgr
         .row
@@ -173,21 +173,21 @@
             img.img40(src='@/assets/curso/tema1/t1-10.svg')
         .row
           .col-12.col-md-12.col-lg-12.mt-4.mb-4
-            figure.justify-center
-              img.img250(src='@/assets/curso/tema1/t1-16.svg')
-        p.text-center La innovación y el desarrollo son importantes, puesto que estos generan cambios en la forma en la que funcionan el mercado y las industrias, y es aquí donde la tecnología impacta la manera en la que deben trabajar las empresas. 
+            figure.justify-center.mb-4
+              img.img350(src='@/assets/curso/tema1/t1-16.svg')
+        p.mt-5.text-center La innovación y el desarrollo son importantes, puesto que estos generan cambios en la forma en la que funcionan el mercado y las industrias, y es aquí donde la tecnología impacta la manera en la que deben trabajar las empresas. 
  
     div.mb-5
       h3.mb-4 Pasos para analizar el contexto de la empresa 
       p A continuación, se explicará una serie de pasos para analizar el contexto de las empresas, es importante resaltar que este análisis se puede hacer de manera diferente y dependerá del tipo de empresa, industria, cultura empresarial, el sistema de gestión, entre otros. Los pasos son los siguientes: 
     
-    .tarjeta.tarjeta--gris.p-4.mb-3
+    .tarjeta.tarjeta--gris.p-4
       LineaTiempoC.color-acento-contenido(text-small)
-        .row(titulo="Procesos").justify-center
+        .row(titulo="Procesos").justify-center.m-0
           .col-12.col-md-4.col-lg-4
             figure.justify-center
               img.img250(src='@/assets/curso/tema1/t1-17.svg', alt='imagen 17')
-          .col-12.col-md-8.col-lg-8.align-items-center.mt-5
+          .col-12.col-md-8.col-lg-8.align-items-center
             h3 Procesos:
             p Involucrar a personal clave en los diferentes 
               span.text-black procesos 
@@ -197,38 +197,32 @@
           .col-12.col-md-4.col-lg-4.align-items-center
             figure.justify-center
               img.img250(src='@/assets/curso/tema1/t1-18.svg', alt='imagen 18')
-          .col-12.col-md-8.col-lg-8.align-items-center.mt-5
+          .col-12.col-md-8.col-lg-8.align-items-center
             h3 Metodología:
             p Establecer la 
-              span.text.black metodología 
+              span.text-black metodología 
               | para el análisis del contexto externo e interno, a veces es necesario hacer una combinación de estas metodologías para aprovechar los aspectos más fuertes. 
-            p Algunas metodologías recomendadas, son: 
-
-              listas 
-              ul.lista-ul.p-3
-                li
-                  ul
-                    li 
-                      i.fas.fa-angle-right
-                      span.text-black Matriz DOFA: 
-                        p.text-small Una de las metodologías más usadas y consiste en determinar los aspectos internos tales como las fortalezas y debilidades, y luego determinar los aspectos externos como las oportunidades y las amenazas, después establece las estrategias a través de las combinaciones de elementos DO, DA, FO y FA . 
-                      
-                    li 
-                      i.fas.fa-angle-right
-                      span.text-black 5 fuerzas de Porter:
-                        p.text-small Este modelo establece la intensidad y la rivalidad de la competencia en una industria específica. 
-
-                    li 
-                      i.fas.fa-angle-right
-                      span.text-black Análisis PESTAL.
-                        p.text-small Esta metodología determina los aspectos políticos, económicos, sociales, tecnológicos, ambientales y legales de la empresa. 
+            p.m-0 Algunas metodologías recomendadas, son:  
+              ul.lista-ul.p-3.m-0
+                li 
+                  i.fas.fa-angle-right
+                  span.text-black Matriz DOFA: 
+                    p.text-small una de las metodologías más usadas y consiste en determinar los aspectos internos tales como las fortalezas y debilidades, y luego determinar los aspectos externos como las oportunidades y las amenazas, después establece las estrategias a través de las combinaciones de elementos DO, DA, FO y FA . 
+                li 
+                  i.fas.fa-angle-right
+                  span.text-black 5 fuerzas de PORTER:
+                    p.text-small este modelo establece la intensidad y la rivalidad de la competencia en una industria específica.
+                li 
+                  i.fas.fa-angle-right
+                  span.text-black Análisis PESTEL:
+                    p.m-0.text-small esta metodología determina los aspectos políticos, económicos, sociales, tecnológicos, ambientales y legales de la empresa. 
 
 
         .row(titulo="Partes interesadas").justify-center
           .col-12.col-md-4.col-lg-4.align-items-center
             figure.justify-center
               img.img250(src='@/assets/curso/tema1/t1-19.svg', alt='imagen 19')
-          .col-12.col-md-8.col-lg-8.align-items-center.mt-5
+          .col-12.col-md-8.col-lg-8.align-items-center
             h3 Partes interesadas:
             p Identificar las 
               span.text-black partes interesadas 
@@ -239,16 +233,16 @@
           .col-12.col-md-4.col-lg-4.align-items-center
             figure.justify-center
               img.img250(src='@/assets/curso/tema1/t1-20.svg', alt='imagen 20')
-          .col-12.col-md-8.col-lg-8.align-items-center.mt-5
+          .col-12.col-md-8.col-lg-8.align-items-center
             h3 Evaluación y calificación de las partes interesadas:
-            p Se debe priorizar estrategias y establecer criterios de clasificación para las partes interesadas, para esto existen metodologías como la matriz de Poder-Interés o el modelo de prominencia. 
+            p Se deben priorizar estrategias y establecer criterios de clasificación para las partes interesadas, para esto existen metodologías como la matriz de Poder-Interés o el modelo de prominencia. 
             
 
         .row(titulo="Estrategias").justify-center
           .col-12.col-md-4.col-lg-4.align-items-center
             figure.justify-center
               img.img250(src='@/assets/curso/tema1/t1-21.svg', alt='imagen 21')
-          .col-12.col-md-8.col-lg-8.align-items-center.mt-5
+          .col-12.col-md-8.col-lg-8.align-items-center
             h3 Estrategias
             p Definir 
               span.text-black estrategias 
@@ -258,14 +252,14 @@
           .col-12.col-md-4.col-lg-4.align-items-center
             figure.justify-center
               img.img250(src='@/assets/curso/tema1/t1-22.svg', alt='imagen 22')
-          .col-12.col-md-8.col-lg-8.align-items-center.mt-5
+          .col-12.col-md-8.col-lg-8.align-items-center
             h3 Revisión y ajustes de las estrategias:
-            p estas deben ser periódicas, deben estar ajustadas a los planes y evaluar sus resultados para poder ajustar las estrategias. 
+            p Estas deben ser periódicas, deben estar ajustadas a los planes y evaluar sus resultados para poder ajustar las estrategias. 
 
       
     separador
 
-    #t1_1.titulo-segundo.color-secundario.mb-5
+    #t1_1.titulo-segundo.color-secundario.mb-5(data-aos="fade-right")
       h2 1.1 Normatividad de la empresa
 
     .row.mb-5
@@ -275,7 +269,7 @@
       .col-12.col-md-11.col-lg-11
         p Hoy en día es normal encontrar en las empresas la necesidad de contratar a trabajadores o reemplazar algunos de ellos que se van. Esto se convierte en una actividad regular y se hace necesario llevar una norma de contratación de personal, este proceso empieza por la selección y convocatoria del nuevo personal que cumpla con las necesidades de la empresa, hasta la contratación y cumplimiento de los derechos laborales por parte de la empresa. 
     
-    figure.mb-5
+    figure.mb-5(data-aos="zoom-in-up")
       img(src='@/assets/curso/tema1/t1-23.svg', alt='imagen 23')
     
     p.mb-5 Es importante saber que la gestión de recursos humanos de una empresa se encarga de la selección, el reclutamiento, la contratación, el clima, la seguridad y las relaciones laborales de un empleado. Además de la formación del personal idóneo y la desvinculación de este de la empresa. Es por esta razón que las áreas de recursos humanos deben realizar sus actividades bajo el marco normativo, entre este se tiene:
@@ -311,13 +305,13 @@
                   figure
                     img(src='@/assets/curso/tema1/t1-26.svg')
                 .col-10.col-md-10.col-lg-10
-                  h3 Sistema de Gestión de seguridad y salud en el trabajo (SG-SST)
+                  h3 Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST)
                 p.text-small Es un sistema que busca que las organizaciones protejan a sus trabajadores de posibles factores de riesgo, accidentes o enfermedades de tipo laboral. Cada empresa puede diseñar su sistema de gestión, pero están obligados como empleador a implementarlos. De no cumplir pueden incurrir en multas o sanciones. 
 
     div.mb-5
       p Por otra parte, es importante resaltar el tipo de contratación que puede acordarse entre las partes. Un contrato laboral regula los deberes y derechos entre el empleador y el empleado, establece el término de duración y la forma de ejecución. Existen varios tipos de contratos para vincular un trabajador a una empresa, todos estos tienen la misma particularidad, por ejemplo: 
     
-    .tarjeta.tarjeta--azul.p-4.mb-5
+    .tarjeta.tarjeta--azul-1.p-4.mb-5
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0.align-items-center
@@ -363,20 +357,23 @@
     div.mb-5 
       p El Artículo 105 del Código Sustantivo del Trabajo indica que una empresa que tenga más de cinco trabajadores debe implementar obligatoriamente el reglamento interno de trabajo, aquí se deben estipular las normas, derechos, deberes y procesos disciplinarios laborales de los empleados. Por otra parte, cuando son empresas industriales, estas deben contar con más de 10 y para las empresas agrícolas ganaderas o forestales con más de 20 trabajadores.  
 
-    div.mb-3.cont6bgr
-      p.p-4 Las Normas ISO: son un conjunto de normas que orientan cómo se debe organizar y gestionar una empresa en sus distintas áreas. Su aplicación permite estandarizar de manera actualizada los procesos de recursos humanos y de esta forma, la empresa obtendría reconocimiento y aceptación internacional. Por otro lado, la ISO 45001 de 2018 maneja lo relacionado con la seguridad y salud en el trabajo (SST).  
+    div.mb-3.cont6bgr.p-4
+      span.text-black Las Normas ISO: 
+      | son un conjunto de normas que orientan cómo se debe organizar y gestionar una empresa en sus distintas áreas. Su aplicación permite estandarizar de manera actualizada los procesos de recursos humanos y de esta forma, la empresa obtendría reconocimiento y aceptación internacional. Por otro lado, la ISO 45001 de 2018 maneja lo relacionado con la seguridad y salud en el trabajo (SST).  
 
     separador
 
-    #t1_2.titulo-segundo.color-secundario.mb-5
-      h2 1.2.	Vacante, reclutamiento y requisición
+    #t1_2.titulo-segundo.color-secundario.mb-5(data-aos="fade-right")
+      h2 1.2	Vacante, reclutamiento y requisición
     
     .row.mb-5
       .col-1.d-none.d-lg-block.col-md-1.col-lg-1
         figure.justify-center
          img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
-        p La vacante de trabajo es un puesto laboral sin ocupar, por lo que la empresa se encuentra en búsqueda de un trabajador a quien delegar ese cargo. En otras palabras, la vacante de trabajo es aquella que está libre. Es importante resaltar que la vacante debe contar con un perfil profesional que debe ocuparse de forma óptima. Un ejemplo de esto es una vacante para la gerencia de un banco, donde los postulados deben contar con experiencia y un nivel académico acorde al desempeño del área.
+        p La 
+          span.text-black vacante 
+          | de trabajo es un puesto laboral sin ocupar, por lo que la empresa se encuentra en búsqueda de un trabajador a quien delegar ese cargo. En otras palabras, la vacante de trabajo es aquella que está libre. Es importante resaltar que la vacante debe contar con un perfil profesional que debe ocuparse de forma óptima. Un ejemplo de esto es una vacante para la gerencia de un banco, donde los postulados deben contar con experiencia y un nivel académico acorde al desempeño del área.
     
     .row.mb-5
       .col-12.col-md-6.col-lg-6.mb-3
@@ -389,7 +386,7 @@
             span Cuando la persona renuncia por mejores oportunidades o nuevas propuestas. 
           li.p-3.cont16bgr
             i.fas.fa-atom.colortext1
-            span Jubilacíon.
+            span Jubilación.
           li.p-3.cont17bgr 
             i.fas.fa-atom.colortext1
             span Por un proceso de expansión de la empresa.
@@ -398,19 +395,18 @@
             span Entre otras.   
 
       .col-12.col-md-6.col-lg-6.justify-center
-        img.img450(src='@/assets/curso/tema1/t1-33.svg', alt='Texto que describa la imagen')
+        img.img350(src='@/assets/curso/tema1/t1-33.svg', alt='Texto que describa la imagen')
       
     .row.mb-5
       .col-12.col-md-4.col-lg-4
         p El 
-          span.colortext1 reclutamiento 
-          |es un conjunto de procedimientos usados en el proceso de convocatoria de personas aptas para un determinado tipo de actividad. Se considera el primer paso para atraer personas interesadas en un puesto de trabajo. De lo anterior, es preciso mencionar que la demanda suele ser mayor que la oferta, en pocas palabras, los postulados son más que los cupos. Es por esta razón que se debe realizar una selección apropiada, 
+          span.text-black reclutamiento 
+          |es un conjunto de procedimientos usados en el proceso de convocatoria de personas aptas para un determinado tipo de actividad. Se considera el primer paso para atraer personas interesadas en un puesto de trabajo. De lo anterior, es preciso mencionar que la demanda suele ser mayor que la oferta, en pocas palabras, los postulados son más que los cupos. Es por esta razón que se debe realizar una selección apropiada, teniendo en cuenta los requerimientos y competencias solicitadas por la empresa. 
       .col-12.mb-2.col-md-4.col-lg-4
         figure
           img.conten1-3(src='@/assets/curso/tema1/t1-34.png', alt='imagen 34')
-      .col-12.col-md-4.col-lg-4
-        p teniendo en cuenta los requerimientos y competencias solicitadas por la empresa. 
-          span.colortext1 Es preciso mencionar que el área de recursos humanos es la encargada de realizar esta actividad de reclutamiento, y su proceso deberá publicarse a la comunidad para que se postulen todos aquellos que cumplen con el perfil y requisitos estipulados por la empresa. A continuación, verá los tipos de reclutamiento:
+      .col-12.col-md-4.col-lg-4 
+        p.colortext1 Es preciso mencionar que el área de recursos humanos es la encargada de realizar esta actividad de reclutamiento, y su proceso deberá publicarse a la comunidad para que se postulen todos aquellos que cumplen con el perfil y requisitos estipulados por la empresa. A continuación, verá los tipos de reclutamiento:
 
     .row.mb-5.justify-space-evenly
       .col-12.col-md-4.col-lg-4.cont4bgr.mb-3
@@ -421,13 +417,10 @@
               figure
                 img.conten1-3(src='@/assets/curso/tema1/t1-35-1.svg', alt='imagen 35-1')
 
-            .tarjeta-flip__contenido.pt-1
-              .row
-                .col-10.col-md-10.col-lg-10.pt-2
-                  p.p-3.text-small Cuando la empresa reubica a sus empleados de acuerdo con sus competencias (ascensos, transferencias, etc.). Aquí se tiene en cuenta los logros profesionales del empleado, se caracteriza por ahorrar tiempo y dinero, mejora el clima laboral, reconoce el trabajo y esfuerzo de los empleados y la adaptación del empleado requiere menos tiempo debido al conocimiento del lugar de trabajo.
-                .col-2.col-md-2.col-lg-2.align-items-end
-                  figure
-                    img(src='@/assets/curso/tema1/t1-26.svg') 
+            .tarjeta-flip__contenido.pt-1.position-relative
+              p.p-3.mt-3.text-small.text-center Cuando la empresa reubica a sus empleados de acuerdo con sus competencias (ascensos, transferencias, etc.). Aquí se tiene en cuenta los logros profesionales del empleado, se caracteriza por ahorrar tiempo y dinero, mejora el clima laboral, reconoce el trabajo y esfuerzo de los empleados y la adaptación del empleado requiere menos tiempo debido al conocimiento del lugar de trabajo.
+              figure.circulo
+                img(src='@/assets/curso/tema1/t1-26.svg') 
       
       .col-12.col-md-4.col-lg-4.cont4bgr.mb-3
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
@@ -437,13 +430,12 @@
               figure
                 img.conten1-3(src='@/assets/curso/tema1/t1-36-1.svg', alt='imagen 36-1')
 
-            .tarjeta-flip__contenido.p-4
-              .row
-                .col-2.col-md-2.col-lg-2
-                  figure
-                    img(src='@/assets/curso/tema1/t1-26.svg') 
-                .col-10.col-md-10.col-lg-10.pt-2
-                  p.p-3.text-small Se busca atraer trabajadores fuera de la empresa con características y competencias necesarias para el puesto de trabajo. Una de sus desventajas es el tiempo que se requiere para el reclutamiento y selección. 
+            .tarjeta-flip__contenido.p-4.position-relative
+              p.p-3.mt-3.text-small.text-center Se busca atraer trabajadores fuera de la empresa con características y competencias necesarias para el puesto de trabajo. Una de sus desventajas es el tiempo que se requiere para el reclutamiento y selección. 
+              figure.circulo_1
+                img(src='@/assets/curso/tema1/t1-26.svg') 
+                
+                  
       
       .col-12.col-md-4.col-lg-4.cont4bgr.mb-3
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
@@ -453,69 +445,79 @@
               figure
                 img.conten1-3(src='@/assets/curso/tema1/t1-37-1.svg', alt='imagen 37-1')
 
-            .tarjeta-flip__contenido.p-4
-              .row
-                .col-2.col-md-2.col-lg-2.align-items-end
-                  figure
-                    img(src='@/assets/curso/tema1/t1-26.svg') 
-                .col-10.col-md-10.col-lg-10.pt-2
-                  p.p-3 Aquí se convoca tanto a nuevos postulantes externos como a candidatos que ya formen parte de la empresa.
-
+            .tarjeta-flip__contenido.p-4.position-relative
+              p.p-3.text-center.mt-3.text-small Aquí se convoca tanto a nuevos postulantes externos, como a candidatos que ya formen parte de la empresa.
+              figure.circulo_2
+                img(src='@/assets/curso/tema1/t1-26.svg') 
+                
+                  
     .row.mb-5
-      .col-12.col-md-6.col-lg-6.cont8bgr.align-items-center
+      .col-12.col-md-6.col-lg-6.cont8bgr.position-relative.align-items-center
         div.p-3
           p Una 
             span.text-black requisición 
             | de personal es un documento de solicitud interna en una empresa. Aquí se solicita de manera formal que se genere y cubra alguna vacante específica. A partir de lo anterior, se da inicio al proceso de reclutamiento y después de la solicitud se hace una revisión de manera detallada para publicar una vacante.
+        figure.circulo_3
+          img(src='@/assets/curso/tema1/t1-38-1.svg', alt='imagen 38-1')
+        figure.circulo_4
+          img(src='@/assets/curso/tema1/t1-38-2.svg', alt='imagen 38-2')
+
       .col-12.col-md-6.col-lg-6
         figure
           img(src='@/assets/curso/tema1/t1-39.png', alt='imagen 39')
     
     div.mb-5
       p Por otra parte, es importante mencionar que una reposición de personal debe definir muy bien el perfil del cargo antes de comenzar cualquier proceso de selección. Muchas veces fracasan los procesos por una mala requisición. Para la realización de una requisición se sugiere que tenga al menos la estructura que se muestra en la siguiente figura:
+    
+    .titulo-quinto.color-acento-contenido 
+      h4 Estructura para realizar una requisición 
 
-    LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempoB")
+    LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempoB")(data-aos="zoom-in-up")
     
     div.mb-5
       p Después de tener la estructura de la requisición de personal, el tema de la selección puede ser más fácil si logra definir el candidato para después realizar una comparación entre la calificación de los candidatos. Esto se puede hacer después de realizar las diferentes pruebas y, por último, la selección quedará a criterio de quien convocó o solicitó la vacante. 
     
     separador
 
-    #t1_3.titulo-segundo.color-secundario.mb-5
-      h2 1.3.	Técnicas de selección de talento humano
+    #t1_3.titulo-segundo.color-secundario.mb-5(data-aos="fade-right")
+      h2 1.3	Técnicas de selección de talento humano
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img.cont9bgr
-        figure.justify-center
-          img.img250(src='@/assets/curso/tema1/t1-41.png', alt='Imagen 1.3')
-      .bloque-texto-g__texto.p-4
-        p.mb-0 La selección del personal en una empresa hace referencia a la obtención de los recursos humanos. A veces es difícil encontrar el personal que cumpla con todos los requerimientos necesarios y es aquí donde el equipo de trabajo o el área de recursos humanos debe seleccionar adecuadamente a los trabajadores, pues de eso dependerá el buen desempeño y desarrollo de las actividades de la empresa. 
+    .bloque-texto-a.cont9bgr.p-3.p-sm-4.mb-5
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          figure.justify-center
+            img.img300(src='@/assets/curso/tema1/t1-41.png', alt='Imagen 1.3')
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p La selección del personal en una empresa hace referencia a la obtención de los recursos humanos. A veces es difícil encontrar el personal que cumpla con todos los requerimientos necesarios y es aquí donde el equipo de trabajo o el área de recursos humanos debe seleccionar adecuadamente a los trabajadores, pues de eso dependerá el buen desempeño y desarrollo de las actividades de la empresa.
     
-    .row.mb-5.align-items-center
+    p.mb-3  A continuación, verá los diferentes objetivos que se buscan al momento de establecer políticas de selección de personal:  
+    
+    .row.mb-5
       .col-12.col-md-7.col-lg-7.mb-3
         ul.lista-ul.p-3
           li.p-3.cont19bgr
             i.fas.fa-atom.colori
             | Agrupar los criterios técnicos que permitan una adecuada selección de personal.
-          li.p-3.cont18bgr
+          li.p-3.cont19bgr_1
             i.fas.fa-atom.colori
             | Definir los lineamientos para el reclutamiento y selección de personal en función de las necesidades de la empresa.
           li.p-3.cont19bgr
             i.fas.fa-atom.colori
             | Concretar la forma técnica en que habrá lugar a los procesos de selección.
-          li.p-3.cont18bgr
+          li.p-3.cont19bgr_1
             i.fas.fa-atom.colori
             | Garantizar el bienestar de los trabajadores y de la empresa.
 
       .col-12.col-md-5.col-lg-5
-        figure.justify-center
-          img.img350(src='@/assets/curso/tema1/t1-43.png', alt='Imagen 1.3')
+        figure.mt-3
+          img.img450(src='@/assets/curso/tema1/t1-43.png', alt='Imagen 1.3')
     
     .row.mb-3
-      .col-1.d-none.d-lg-block.col-md-1.col-lg-1
+      .col-1.d-none.d-lg-block.col-md-1.col-lg-1.p-0
         figure.justify-center
-          img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
-      .col-12.col-md-11.col-lg-11
+          img.img40(src='@/assets/curso/tema1/t1-38-2.svg', alt='imagen 9')
+      .col-12.col-md-11.col-lg-11.p-0
         p La selección de talento humano contempla actividades como la descripción del puesto y difusión de la oferta de trabajo, la selección del personal, proceso de entrevista (preparación preguntas), proceso de reclutamiento y, por último, la integración e incorporación del nuevo personal. 
     
     div.mb-5
@@ -526,29 +528,32 @@
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/t1-46.svg' alt='AvatarTop')
           .tarjeta.p-4
-            .row
-              .col-12.col-md-12.col-lg-12.m-0.p-0.mt-5.cont18bgr
+            .row.cont30bgr
+              .col-12.col-md-12.col-lg-12.m-0.p-0.mt-5.cont18bgr.position-relative
                 h2.text-center.cont20bgr 1. La negociación 
-                p.p-3 Tiene un papel muy importante en la selección del personal. El área de recursos humanos deberá negociar con muchas partes dentro de la empresa o proyecto para hacer coincidir el personal que se va a contratar con los requerimientos establecidos por la empresa.
-
+                p.p-3.text-center Tiene un papel muy importante en la selección del personal. El área de recursos humanos deberá negociar con muchas partes dentro de la empresa o proyecto para hacer coincidir el personal que se va a contratar con los requerimientos establecidos por la empresa.
+                  figura.circulo_5
+                    img(src='@/assets/curso/tema1/t1-10.svg') 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/t1-47.svg' alt='AvatarTop')
           .tarjeta.p-4
-            .row
-              .col-12.col-md-12.col-lg-12.m-0.p-0.mt-5.cont18bgr
+            .row.cont30bgr
+              .col-12.col-md-12.col-lg-12.m-0.p-0.mt-5.cont18bgr.position-relative
                 h2.text-center.cont20bgr 2.	La selección preliminar 
-                p.p-3 Esta técnica se aplica en empresas o proyectos donde los requerimientos que se piden hacen una selección competitiva. Esto permite que no se realice una contratación precipitada y sin fundamentos.
-
+                p.p-3.text-center Esta técnica se aplica en empresas o proyectos donde los requerimientos que se piden hacen una selección competitiva. Esto permite que no se realice una contratación precipitada y sin fundamentos.
+                  figura.circulo_6
+                    img(src='@/assets/curso/tema1/t1-10.svg')
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/t1-48.svg' alt='AvatarTop')
           .tarjeta.p-4
-            .row
-              .col-12.col-md-12.col-lg-12.m-0.p-0.mt-5.cont18bgr
+            .row.cont30bgr
+              .col-12.col-md-12.col-lg-12.m-0.p-0.mt-5.cont18bgr.position-relative
                 h2.text-center.cont20bgr 3.	La adquisición  
-                p.p-3 Es la etapa que prosigue a una preselección. Aquí se parte de la seguridad del equipo o personal que se va a seleccionar.  
-
+                p.p-3.text-center.mt-5 Es la etapa que prosigue a una preselección. Aquí se parte de la seguridad del equipo o personal que se va a seleccionar.  
+                   figura.circulo_7
+                    img(src='@/assets/curso/tema1/t1-10.svg')
     div.mb-5
       p Referente a las técnicas de reclutamiento y selección se encuentran las siguientes pruebas utilizadas en las entrevistas por competencias: 
     
@@ -591,7 +596,7 @@
                 i.fas.fa-angle-right.colori
                 | Definir y actualizar las competencias requeridas para el empleado, establecer su seguimiento y evaluación.
       
-      .col-12.col-md-4.col-lg-4.mb-2.align-items-center
+      .col-12.col-md-4.col-lg-4.mb-2
         figure
           img.img450(src='@/assets/curso/tema1/t1-45.svg', alt='imagen 45')
       
