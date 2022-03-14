@@ -383,7 +383,7 @@
           figure.justify-center
             img.img160(src='@/assets/curso/tema2/t2-17.svg', alt='Imagen 2-17')
         .col-md-6.mb-4.mb-md-0.mt-5
-          h3 La etapa 4.
+          h3 La etapa 4
           p Permite describir las competencias técnicas específicas del cargo. 
 
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5

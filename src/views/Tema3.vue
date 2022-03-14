@@ -753,7 +753,7 @@
             img.img450(src='@/assets/curso/tema3/t3-42.png', alt='Img 3-42')
     
     div.mb-5
-      p Partiendo de lo anterior, se enuncian algunas plataformas digitales existentes, que pueden ser utilizadas en marketing online de acuerdo a sus necesidades.
+      p Partiendo de lo anterior, se enuncian algunas plataformas digitales existentes, que pueden ser utilizadas en <em>marketing online</em> de acuerdo a sus necesidades.
     
     .row.justify-center
       .col-lg-5
@@ -779,15 +779,15 @@
             img(src='@/assets/curso/tema3/t3-45.svg' alt='AvatarTop')
           .tarjeta.tarjeta2
             .p-4
-              h2 Mailchimp
-              p Permite administrar todas sus campañas de e-mail marketing.
+              h2 <em>Mailchimp</em>
+              p Permite administrar todas sus campañas de <em>e-mail marketing.</em>
       .col-lg-5
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema3/t3-46.svg' alt='AvatarTop')
           .tarjeta.tarjeta2
             .p-4
-              h2 Buzzsumo
+              h2 <em>Buzzsumo</em>
               p Realiza un análisis de su contenido en Internet.
     .row.justify-center
       .col-lg-5
@@ -796,7 +796,7 @@
             img(src='@/assets/curso/tema3/t3-47.svg' alt='AvatarTop')
           .tarjeta.tarjeta2
             .p-4
-              h2 WordPress
+              h2 <em>WordPress</em>
               p Es el gestor de contenidos más utilizado del mundo.
       .col-lg-5
         .tarjeta-avatar-b.mb-5
@@ -813,8 +813,8 @@
             img(src='@/assets/curso/tema3/t3-49.svg' alt='AvatarTop')
           .tarjeta.tarjeta2
             .p-4
-              h2 Ion
-              p Es un software que permite crear experiencias digitales interactivas de manera escalable y eficaz, produciendo páginas web que generan más engagement (nivel de compromiso de los usuarios). 
+              h2 <em>Ion</em>
+              p Es un <em>software</em> que permite crear experiencias digitales interactivas de manera escalable y eficaz, produciendo páginas web que generan más <em>engagement</em> (nivel de compromiso de los usuarios). 
 
     div.mb-5
       h3 Almacenamiento en la nube 

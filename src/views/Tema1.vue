@@ -31,7 +31,7 @@
         .row
           .col-12.col-md-7.col-lg-7.mb-4.mb-md-0.p-5
             h4 Propósito
-            p Definir lo que see quiere lograr y el motivo del por qué hacerlo, es uno de los puntos que hay que tener en cuenta a la hora de impactar a un público, saber qué se aportará a los clientes. 
+            p Definir lo que se quiere lograr y el motivo del por qué hacerlo, es uno de los puntos que hay que tener en cuenta a la hora de impactar a un público, saber qué se aportará a los clientes. 
        
           .col-12.col-md-5.col-lg-5
             figure.justify-center
@@ -70,7 +70,7 @@
         .row
           .col-12.col-md-7.col-lg-7.p-5
             h4 Estructura organizativa
-            p Aquí son importante las  relaciones jerárquicas que se presentan en la empresa, su desempeño se determina según el número de intermediarios que existan de arriba a abajo. Entre menos intermediarios es mejor. 
+            p Aquí son importantes las relaciones jerárquicas que se presentan en la empresa, su desempeño se determina según el número de intermediarios que existan de arriba a abajo. Entre menos intermediarios es mejor. 
         
           .col-12.col-md-5.col-lg-5
             figure.justify-center
@@ -565,7 +565,7 @@
              
           p.text-small(numero="2" titulo="Test de personalidad") Aquí se evalúa las cualidades racionales, aspectos cognitivos y afectivos relacionados con la personalidad del candidato. Por lo general está a cargo de un profesional de Psicología.  
               
-          p.text-small(numero="3" titulo="Grafología") Se emplea como técnica de simulación, aquí se tiene en cuenta la forma de escribir para estudiar aspectos psicológicos mas no para determinar las aptitudes o habilidades del candidato para el cargo. 
+          p.text-small(numero="3" titulo="Grafología") Se emplea como técnica de simulación, aquí se tiene en cuenta la forma de escribir para estudiar aspectos psicológicos más no para determinar las aptitudes o habilidades del candidato para el cargo. 
               
           p.text-small(numero="4" titulo="Test de inteligencia") Se mide el coeficiente intelectual de las personas por medio de preguntas. 
 
