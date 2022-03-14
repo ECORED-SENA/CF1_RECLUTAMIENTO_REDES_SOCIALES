@@ -36,7 +36,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Arrastrar y soltar
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/AD2/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
 
