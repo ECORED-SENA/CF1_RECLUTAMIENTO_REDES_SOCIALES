@@ -27,24 +27,24 @@
               ul.lista-ul.p-3
                 li 
                   i.fas.fa-check.colorcheck
-                  span.text-black Definir: 
-                  | el perfil del cargo.
+                  span #[strong Definir:] 
+                    | el perfil del cargo.
                 li 
                   i.fas.fa-check.colorcheck
-                  span.text-black Reclutar: 
-                  | candidatos que cumplan con el perfil. Hacer uso de las páginas, e-mail, SMS, multiposting, etc.
+                  span #[strong reclutar:] 
+                    | candidatos que cumplan con el perfil. Hacer uso de las páginas, e-mail, SMS, multiposting, etc.
                 li 
                   i.fas.fa-check.colorcheck
-                  span.text-black Evaluar: 
-                  | pruebas y entrevistas (de forma virtual y de calificación automáticas). 
+                  span #[strong Evaluar:]                  
+                    | pruebas y entrevistas (de forma virtual y de calificación automáticas). 
                 li 
                   i.fas.fa-check.colorcheck
-                  span.text-black Seleccionar: 
-                  | estudiar y verificar a los posibles candidatos para observar si están mintiendo o dicen la verdad sobre sus conocimientos, actitud, aptitud, experiencia, documentación, antecedentes, etc. 
+                  span #[strong Seleccionar:] 
+                    | estudiar y verificar a los posibles candidatos para observar si están mintiendo o dicen la verdad sobre sus conocimientos, actitud, aptitud, experiencia, documentación, antecedentes, etc. 
                 li 
                   i.fas.fa-check.colorcheck
-                  span.text-black Organizar: 
-                  | aplicar mecanismos de organización para dar trazabilidad al proceso. Aquí es importante generar informes, tener presente datos estadísticos del proceso y contar con el banco de candidatos. 
+                  span #[strong Organizar:] 
+                    | aplicar mecanismos de organización para dar trazabilidad al proceso. Aquí es importante generar informes, tener presente datos estadísticos del proceso y contar con el banco de candidatos. 
             img.puntos_2(src='@/assets/curso/puntos.svg', alt='Imagen 3-2')
     div.mb-5
       p Por otra parte, se encuentran algunas características del proceso de selección de talento humano 5.0: 
