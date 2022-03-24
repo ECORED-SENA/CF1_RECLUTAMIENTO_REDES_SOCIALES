@@ -17,7 +17,7 @@
 
       .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
         img(:src="globalData.imagenBannerPrincipal" style="width: 481px")
-    .imagen_flotante_1: img(src="@/assets/curso/flot1.svg").d-none.d-lg-block
+    .imagen_flotante_1: img(src="@/assets/curso/flot1.svg")
     .imagen_flotante_2: img(src="@/assets/curso/flot2.svg").d-none.d-lg-block
   //-  .imagen_flotante_3: img(src="@/assets/curso/float3.png")
     .imagen_flotante_4.d-none.d-xl-block: img(src="@/assets/curso/float3.png")
