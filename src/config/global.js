@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Planeación y convocatoria para el reclutamiento de personal',
     descripcionCurso:
-      'Los contenidos propuestos en este componente de formación permiten conocer la planeación para el reclutamiento de personal según competencias y a través de redes sociales. Para su desarrollo se estudiará la conceptualización, la planeación, los tipos de repositorio, las plataformas y tipos de convocatorias. ',
+      'Los contenidos propuestos en este componente formativo permiten conocer la planeación para el reclutamiento de personal según competencias y a través de redes sociales. Para su desarrollo se estudiará la conceptualización, la planeación, los tipos de repositorio, las plataformas y tipos de convocatorias. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
@@ -177,7 +177,7 @@ export default {
     {
       referencia:
         'Real Academia Española. (2021). Diccionario de la lengua española, 23.ª ed., [versión 23.4 en línea]. ',
-      link: 'https://dle.rae.es.',
+      link: 'https://dle.rae.es',
     },
   ],
   glosario: [

@@ -31,7 +31,7 @@
                     | el perfil del cargo.
                 li 
                   i.fas.fa-check.colorcheck
-                  span #[strong reclutar:] 
+                  span #[strong Reclutar:] 
                     | candidatos que cumplan con el perfil. Hacer uso de las páginas, e-mail, SMS, multiposting, etc.
                 li 
                   i.fas.fa-check.colorcheck
@@ -143,7 +143,7 @@
         li 
           .lista-ol--cuadro__vineta 
             span 7 
-          | Informe del proceso de 
+          | Informe del proceso de selección.
         <hr width= 100%>  
         li 
           .lista-ol--cuadro__vineta 
@@ -446,7 +446,7 @@
         .row
           .col-12.col-md-7.col-lg-7.mt-5
             h4 El almacenamiento de la información
-            p SAquí se permite que la información quede registrada en el sistema, este puede estar almacenada por ejemplo en un ordenador. Esto permitirá el acceso de la información en cualquier momento para lo que se concierne en la empresa. La unidad de almacenamiento más común son los discos duros internos y externos.  
+            p Aquí se permite que la información quede registrada en el sistema, este puede estar almacenada por ejemplo en un ordenador. Esto permitirá el acceso de la información en cualquier momento para lo que se concierne en la empresa. La unidad de almacenamiento más común son los discos duros internos y externos.  
       
           .col-12.col-md-5.col-lg-5
             figure.justify-center
@@ -573,7 +573,7 @@
             img.img160(src='@/assets/curso/tema3/t3-31.svg')
           div.text-center.mt-5
             h3 Bases de datos de una biblioteca
-            p Contienen un gran volumen de documentos (libros, revistas, tesis, etc.) Esta base permitirá ubicar y recuperar cada uno de estos documentos de la forma más rápida y precisa.
+            p Contienen un gran volumen de documentos (libros, revistas, tesis, etc.). Esta base permitirá ubicar y recuperar cada uno de estos documentos de la forma más rápida y precisa.
       .col-12.col-md-4.col-lg-4.mb-3
         div.cont13bgr.p-3
           figure.justify-end
@@ -595,7 +595,7 @@
           img.img40(src='@/assets/curso/puntos.svg', alt='imagen 9')
       .col-12.col-md-11.col-lg-11
         p Un repositorio es un espacio especializado en almacenar, organizar, mantener y difundir información digital, habitualmente contenida en archivos informáticos, que pueden tener trabajos científicos, conjuntos de datos o <em>software</em>.
-        p En otras palabras, se puede decir que es un sistema en la red formado por <em>hardware, software, data</em> y procedimientos que: 
+    
     .bloque-texto-a.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
@@ -603,7 +603,7 @@
             img.img350(src='@/assets/curso/tema3/t3-33.svg', alt='Imagen 3-33')
         .col-lg-8
           .bloque-texto-a__texto.p-4.p-md-5.p-lg-5
-            p.mb-3 En otras palabras, se puede decir que es un sistema en la red formado por hardware, software, data y procedimientos que:
+            p.mb-3 En otras palabras, se puede decir que es un sistema en la red formado por <em>hardware, software, data</em> y procedimientos que:
               ul.lista-ul.p-3
                 li 
                   i.fas.fa-check.colorcheck
@@ -694,7 +694,7 @@
           span.text-black repositorio digital temático             
           | reúne sus contenidos en función de su área temática, no por su origen institucional, en torno a una disciplina científica o disciplinas relacionadas.
         P Por otra parte, se encuentran los 
-          span.text-black repositorios digitales en las bibliotecas,
+          span.text-black repositorios digitales en las bibliotecas, 
           | algunas centran gran parte de su interés o preocupación en la digitalización de documentos: prensa, grabados, tesis, artículos, ponencias, revistas, trabajos de aprendizaje, diapositivas, etc.
       .col-12.col-md-5.col-lg-5
         figure.justify-center

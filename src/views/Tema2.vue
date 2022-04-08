@@ -224,7 +224,7 @@
         figure.justify-center
           img.img350(src='@/assets/curso/tema2/t2-8.svg', alt='imagen 2-8')
       .col-12.col-md-4.col-lg-4
-        p a través de las diferentes fuentes con el objetivo de convocar y reclutar candidatos.
+        p a través de las diferentes fuentes con el objetivo de convocar y reclutar candidatos. 
           span.colortext1 Por otra parte, la selección de personal es después del proceso de reclutamiento, aquí se dan varias etapas que se encargan de la selección entre todos los candidatos del más idóneo.  
     
     .row
@@ -359,7 +359,7 @@
       .row
         .col-md-8.mb-4.mb-md-0.align-items-center
           h3 La etapa 3   
-          p Describir las competencias generales en relación a:
+          p Describir las competencias generales con relación a:
             ul.lista-ul.p-3
               li 
                 i.fas.fa-check.colori
@@ -398,7 +398,7 @@
       p En las fuentes de provisión de personal se encuentran las de reclutamiento interno y reclutamiento externo. A continuación, conocerá un poco de cada una de estas: 
     
     div.mb-5.cont6bgr.p-3
-      span.text-black Fuentes de reclutamiento interno 
+      span.text-black Fuentes de reclutamiento interno:  
       | Consiste en cubrir una vacante, reubicando a cierto empleado que ya pertenece a la empresa. Este proceso de selección se realiza de forma interna y puede llegar a ser positivo para la empresa, debido a la reducción de costos al no realizar un proceso externo. Es preciso mencionar que a veces de forma interna se dan recomendaciones de personas cercanas o conocidas por algún empleado. 
     
     div.mb-5
@@ -431,7 +431,7 @@
             img.img300(src='@/assets/curso/tema2/t2-18.png', alt='Imagen 2-18')
     
     div.mb-5.cont6bgr.p-3
-      span.text-black Fuentes de reclutamiento externo  
+      span.text-black Fuentes de reclutamiento externo:   
       | Son aquellas que no pertenecen a la empresa, verá más en la siguiente infografía animada.
     
     .row.mb-5
@@ -450,13 +450,13 @@
            ol.lista-ol
             li 
               span.text-bold 1. 
-              | Acceso a una gran variedad y diversidad cantidad de talento
+              | Acceso a una gran variedad y diversidad cantidad de talento.
             li 
               span.text-bold 2. 
               | Se ahorra en formación, los nuevos candidatos cuentan con un nivel de formación adecuada al cargo. 
             li 
               span.text-bold 3. 
-              | Fomenta la competitividad y la diversidad
+              | Fomenta la competitividad y la diversidad.
             li 
               span.text-bold 4. 
               | Se genera un ambiente de trabajo diferente. Aquí se incorporan nuevas ideas, métodos y herramientas que conozca el nuevo trabajador.
